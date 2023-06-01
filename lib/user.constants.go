@@ -9,21 +9,3 @@ const (
 	WriteUser    = "api_write_user@yopmail.com"
 	AdminUser    = "api_admin_user@gmail.com"
 )
-
-const (
-	ReadAcl  = "read"
-	WriteAcl = "write"
-	AdminAcl = "admin"
-)
-
-const (
-	CustomKeyType  = "CustomKey"
-	TeacherKeyType = "TeacherKey"
-	StudentKeyType = "StudentKey"
-	ProjectKeyType = "ProjectKey"
-)
-
-const (
-	AlphabeticScaleType = "Alphabetic"
-	NumericScaleType    = "Numeric"
-)

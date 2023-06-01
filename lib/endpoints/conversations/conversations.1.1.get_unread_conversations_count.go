@@ -8,11 +8,11 @@ import (
 
 	"github.com/snowpal/pitch-building-blocks-sdk/lib"
 	helpers2 "github.com/snowpal/pitch-building-blocks-sdk/lib/helpers"
-	"github.com/snowpal/pitch-building-blocks-sdk/lib/structs/common"
+	"github.com/snowpal/pitch-building-blocks-sdk/lib/structs/response"
 )
 
 func GetUnreadConversationsCount(jwtToken string) (int, error) {
-	resUnreadCount := common.UnreadCount{}
+	resUnreadCount := response.UnreadCount{}
 	route, err := helpers2.GetRoute(lib.RouteConversationsGetUnreadConversationsCount)
 	if err != nil {
 		fmt.Println(err)
