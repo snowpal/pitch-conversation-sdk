@@ -1,5 +1,9 @@
 package response
 
+type UnreadCount struct {
+	UnreadCount int `json:"unreadCount"`
+}
+
 type Conversations struct {
 	Conversations []Conversation `json:"conversations"`
 }
