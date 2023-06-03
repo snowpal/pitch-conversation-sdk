@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/snowpal/pitch-building-blocks-sdk/lib"
-	"github.com/snowpal/pitch-building-blocks-sdk/lib/structs/response"
+	"github.com/snowpal/pitch-conversation-sdk/lib"
+	"github.com/snowpal/pitch-conversation-sdk/lib/structs/response"
 )
 
 func sleepWindow(sleepTime time.Duration) {

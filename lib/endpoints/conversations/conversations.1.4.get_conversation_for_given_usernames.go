@@ -7,9 +7,9 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/snowpal/pitch-building-blocks-sdk/lib"
-	helpers2 "github.com/snowpal/pitch-building-blocks-sdk/lib/helpers"
-	"github.com/snowpal/pitch-building-blocks-sdk/lib/structs/response"
+	"github.com/snowpal/pitch-conversation-sdk/lib"
+	helpers2 "github.com/snowpal/pitch-conversation-sdk/lib/helpers"
+	"github.com/snowpal/pitch-conversation-sdk/lib/structs/response"
 )
 
 func GetConversationForGivenUsernames(jwtToken string, usernames []string) ([]response.Conversation, error) {
