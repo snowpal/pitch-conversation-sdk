@@ -2,8 +2,8 @@ package main
 
 import (
 	log "github.com/sirupsen/logrus"
-	"github.com/snowpal/pitch-building-blocks-sdk/lib/config"
-	"github.com/snowpal/pitch-building-blocks-sdk/lib/recipes"
+	"github.com/snowpal/pitch-conversation-sdk/lib/config"
+	"github.com/snowpal/pitch-conversation-sdk/lib/recipes"
 )
 
 func main() {
