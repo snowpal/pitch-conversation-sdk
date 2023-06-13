@@ -4,6 +4,9 @@ Check out the recipes to get a sense of what the underlying API has to offer. He
 	package main
 
 	import (
+		"os"
+		"strconv"
+
 		log "github.com/sirupsen/logrus"
 		"github.com/snowpal/pitch-conversation-sdk/lib/config"
 		"github.com/snowpal/pitch-conversation-sdk/lib/recipes"
@@ -16,7 +19,17 @@ Check out the recipes to get a sense of what the underlying API has to offer. He
 			return
 		}
 
-		recipeID := 1
+		var recipeID int
+		recipeIDInEnv := os.Getenv("RECIPE_ID")
+		if len(recipeIDInEnv) == 0 {
+			recipeID = 1
+		} else {
+			recipeID, err = strconv.Atoi(recipeIDInEnv)
+			if err != nil {
+				recipeID = 1
+			}
+		}
+
 		switch recipeID {
 		case 1:
 			log.Info("Run Recipe1")
