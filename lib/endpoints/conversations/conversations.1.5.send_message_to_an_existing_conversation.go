@@ -8,15 +8,16 @@ import (
 	"strings"
 
 	"github.com/snowpal/pitch-conversation-sdk/lib"
-	helpers2 "github.com/snowpal/pitch-conversation-sdk/lib/helpers"
 	"github.com/snowpal/pitch-conversation-sdk/lib/structs/response"
+
+	helpers2 "github.com/snowpal/pitch-conversation-sdk/lib/helpers"
 )
 
 type SendMessageReqBody struct {
 	MessageText string `json:"messageText"`
 }
 
-func SendMessageToAnExistingConversation(jwtToken string, reqBody SendMessageReqBody) (response.Conversation, error) {
+func SendMessageToAnExistingConversation(jwtToken string, conversationId string, reqBody SendMessageReqBody) (response.Conversation, error) {
 	resConversation := response.Conversation{}
 	requestBody, err := helpers2.GetRequestBody(reqBody)
 	if err != nil {
@@ -24,7 +25,7 @@ func SendMessageToAnExistingConversation(jwtToken string, reqBody SendMessageReq
 		return resConversation, err
 	}
 	payload := strings.NewReader(requestBody)
-	route, err := helpers2.GetRoute(lib.RouteConversationsSendMessageToAnExistingConversation)
+	route, err := helpers2.GetRoute(lib.RouteConversationsSendMessageToAnExistingConversation, conversationId)
 	if err != nil {
 		fmt.Println(err)
 		return resConversation, err

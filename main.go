@@ -4,9 +4,11 @@ import (
 	"os"
 	"strconv"
 
-	log "github.com/sirupsen/logrus"
 	"github.com/snowpal/pitch-conversation-sdk/lib/config"
-	"github.com/snowpal/pitch-conversation-sdk/lib/recipes"
+
+	log "github.com/sirupsen/logrus"
+	recipes "github.com/snowpal/pitch-conversation-sdk/lib/recipes"
+	newRecipes "github.com/snowpal/pitch-conversation-sdk/lib/recipes/recipe.3.initialize_user"
 )
 
 func main() {
@@ -36,6 +38,9 @@ func main() {
 		log.Info("Run Recipe2")
 		recipes.CreatePrivateConversation()
 		break
+	case 3:
+		log.Info("Run Recipe3")
+		newRecipes.InitializeNewUser()
 	default:
 		log.Info("pick a specific recipe to run")
 	}
