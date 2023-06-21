@@ -69,7 +69,7 @@ func InitializeNewUser() {
 
 	DisplayMessages(user2, conversation.ID)
 
-	log.Info("Sending a message in the grouop conversation as ", user3Email)
+	log.Info("Sending a message in the group conversation as ", user3Email)
 	conversation, err = conversations.SendMessageToAnExistingConversation(user2.JwtToken, conversation.ID, conversations.SendMessageReqBody{
 		MessageText: "hey user1",
 	})
