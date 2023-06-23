@@ -1,10 +1,11 @@
-package recipes
+package setupnewuser
 
 import (
+	"fmt"
+
 	"github.com/snowpal/pitch-conversation-sdk/lib"
 	"github.com/snowpal/pitch-conversation-sdk/lib/endpoints/conversations"
 	"github.com/snowpal/pitch-conversation-sdk/lib/helpers/recipes"
-	"github.com/snowpal/pitch-conversation-sdk/lib/structs/response"
 
 	log "github.com/sirupsen/logrus"
 )
@@ -14,7 +15,7 @@ func displayUser(index int, email string) {
 	if err != nil {
 		return
 	}
-	log.Info(index+1, ". ", email, " | ", user.JwtToken)
+	log.Info(fmt.Sprintf("%d. %s | %s", index+1, email, user.JwtToken))
 }
 
 func DisplayUsers(userEmails []string) {
@@ -24,13 +25,18 @@ func DisplayUsers(userEmails []string) {
 	}
 }
 
-func DisplayMessages(user response.User, conversationId string) {
-	log.Info("## Messages for ", user.Email)
+func DisplayMessages(email string, conversationId string) {
+	log.Info(fmt.Sprintf("Sign in as %s", email))
+	user, err := recipes.SignIn(email, lib.Password)
+	if err != nil {
+		return
+	}
+	log.Info(fmt.Sprintf("## Messages for %s", email))
 	converstion, err := conversations.GetConversation(user.JwtToken, conversationId)
 	if err != nil {
 		return
 	}
 	for index, message := range *converstion.Messages {
-		log.Info(index+1, ". ", message.MessageText)
+		log.Info(fmt.Sprintf("%d. %s", index+1, message.MessageText))
 	}
 }

@@ -1,6 +1,8 @@
 package recipes
 
 import (
+	"fmt"
+
 	"github.com/snowpal/pitch-conversation-sdk/lib"
 	"github.com/snowpal/pitch-conversation-sdk/lib/endpoints/conversations"
 	"github.com/snowpal/pitch-conversation-sdk/lib/endpoints/registration"
@@ -20,7 +22,8 @@ func CreatePrivateConversation() {
 		return
 	}
 
-	user, err := recipes.SignIn(lib.ActiveUser, lib.Password)
+	var user response.User
+	user, err = recipes.SignIn(lib.ActiveUser, lib.Password)
 	if err != nil {
 		return
 	}
@@ -53,7 +56,7 @@ func displayMessages(conversation response.Conversation, anotherUser response.Us
 		return err
 	}
 	for index, message := range *conversation.Messages {
-		log.Printf(".Message %d: %s (sent by %s at %s)", index, message.MessageText, message.AddedBy, message.MessageTime)
+		log.Info(fmt.Sprintf(".Message %d: %s (sent by %s at %s)", index, message.MessageText, message.AddedBy, message.MessageTime))
 	}
 	recipes.SleepAfter()
 	return nil
