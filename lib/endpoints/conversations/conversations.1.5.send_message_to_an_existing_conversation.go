@@ -2,37 +2,34 @@ package conversations
 
 import (
 	"encoding/json"
-	"fmt"
 	"io"
 	"net/http"
 	"strings"
 
 	"github.com/snowpal/pitch-conversation-sdk/lib"
-	helpers2 "github.com/snowpal/pitch-conversation-sdk/lib/helpers"
 	"github.com/snowpal/pitch-conversation-sdk/lib/structs/response"
+
+	helpers2 "github.com/snowpal/pitch-conversation-sdk/lib/helpers"
 )
 
 type SendMessageReqBody struct {
 	MessageText string `json:"messageText"`
 }
 
-func SendMessageToAnExistingConversation(jwtToken string, reqBody SendMessageReqBody) (response.Conversation, error) {
+func SendMessageToAnExistingConversation(jwtToken string, conversationId string, reqBody SendMessageReqBody) (response.Conversation, error) {
 	resConversation := response.Conversation{}
 	requestBody, err := helpers2.GetRequestBody(reqBody)
 	if err != nil {
-		fmt.Println(err)
 		return resConversation, err
 	}
 	payload := strings.NewReader(requestBody)
-	route, err := helpers2.GetRoute(lib.RouteConversationsSendMessageToAnExistingConversation)
+	route, err := helpers2.GetRoute(lib.RouteConversationsSendMessageToAnExistingConversation, conversationId)
 	if err != nil {
-		fmt.Println(err)
 		return resConversation, err
 	}
 
 	req, err := http.NewRequest(http.MethodPatch, route, payload)
 	if err != nil {
-		fmt.Println(err)
 		return resConversation, err
 	}
 
@@ -40,7 +37,6 @@ func SendMessageToAnExistingConversation(jwtToken string, reqBody SendMessageReq
 
 	res, err := helpers2.MakeRequest(req)
 	if err != nil {
-		fmt.Println(err)
 		return resConversation, err
 	}
 
@@ -48,13 +44,11 @@ func SendMessageToAnExistingConversation(jwtToken string, reqBody SendMessageReq
 
 	body, err := io.ReadAll(res.Body)
 	if err != nil {
-		fmt.Println(err)
 		return resConversation, err
 	}
 
 	err = json.Unmarshal(body, &resConversation)
 	if err != nil {
-		fmt.Println(err)
 		return resConversation, err
 	}
 	return resConversation, nil
