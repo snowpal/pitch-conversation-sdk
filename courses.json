@@ -13,11 +13,13 @@
         {
           "title": "Chapter 1",
           "description": "This is chapter 1",
+          "thumbnail": "https://learn-ui-production.s3.amazonaws.com/background/intro_bg.jpg",
           "url": "https://player.vimeo.com/video/827116767"
         },
         {
           "title": "Chapter 2",
           "description": "This is chapter 2",
+          "thumbnail": "https://learn-ui-production.s3.amazonaws.com/background/intro_bg.jpg",
           "url": "https://player.vimeo.com/video/836772991"
         }
       ],
@@ -42,11 +44,13 @@
         {
           "title": "Chapter 1",
           "description": "This is chapter 1",
+          "thumbnail": "https://learn-ui-production.s3.amazonaws.com/background/intro_bg.jpg",
           "url": "https://player.vimeo.com/video/836772990"
         },
         {
           "title": "Chapter 2",
           "description": "This is chapter 2",
+          "thumbnail": "https://learn-ui-production.s3.amazonaws.com/background/intro_bg.jpg",
           "url": "https://player.vimeo.com/video/842064037"
         }
       ],
