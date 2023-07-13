@@ -14,13 +14,11 @@
         {
           "title": "Chapter 1",
           "description": "This is chapter 1",
-          "thumbnail": "https://learn-ui-production.s3.amazonaws.com/background/intro_bg.jpg",
           "url": "https://player.vimeo.com/video/827116767"
         },
         {
           "title": "Chapter 2",
           "description": "This is chapter 2",
-          "thumbnail": "https://learn-ui-production.s3.amazonaws.com/background/intro_bg.jpg",
           "url": "https://player.vimeo.com/video/836772991"
         }
       ],
@@ -30,231 +28,6 @@
       "tags": [
         "canva",
         "website"
-      ]
-    },    {
-      "id": "C124",
-      "name": "Update: Firebase SDK",
-      "title": "Update Firebase SDK before deadline",
-      "description": "If you are using Google Firebase Cloud Messaging APIs and SDKs, you may have received an email recently asking you to update your apps to the latest versions of those APIs & SDKs.",
-      "price": 4.99,
-      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/background/intro_bg.jpg",
-      "previewUrl": "https://player.vimeo.com/video/127116767",
-      "pageUrl": "https://getsnowpal.com/#13-firebase-cloud-messaging-update",
-      "lastModified": "2013-06-07",
-      "chapters": [
-        {
-          "title": "Chapter 1",
-          "description": "This is chapter 1",
-          "thumbnail": "https://learn-ui-production.s3.amazonaws.com/background/intro_bg.jpg",
-          "url": "https://player.vimeo.com/video/836772990"
-        },
-        {
-          "title": "Chapter 2",
-          "description": "This is chapter 2",
-          "thumbnail": "https://learn-ui-production.s3.amazonaws.com/background/intro_bg.jpg",
-          "url": "https://player.vimeo.com/video/842064037"
-        }
-      ],
-      "labels": [
-        "canva"
-      ],
-      "tags": [
-        "firebase",
-        "fcm",
-        "sdk"
-      ]
-    },
-        {
-      "id": "C124",
-      "name": "Update: Firebase SDK",
-      "title": "Update Firebase SDK before deadline",
-      "description": "If you are using Google Firebase Cloud Messaging APIs and SDKs, you may have received an email recently asking you to update your apps to the latest versions of those APIs & SDKs.",
-      "price": 4.99,
-      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/background/intro_bg.jpg",
-      "previewUrl": "https://player.vimeo.com/video/127116767",
-      "pageUrl": "https://getsnowpal.com/#13-firebase-cloud-messaging-update",
-      "lastModified": "2013-06-07",
-      "chapters": [
-        {
-          "title": "Chapter 1",
-          "description": "This is chapter 1",
-          "thumbnail": "https://learn-ui-production.s3.amazonaws.com/background/intro_bg.jpg",
-          "url": "https://player.vimeo.com/video/836772990"
-        },
-        {
-          "title": "Chapter 2",
-          "description": "This is chapter 2",
-          "thumbnail": "https://learn-ui-production.s3.amazonaws.com/background/intro_bg.jpg",
-          "url": "https://player.vimeo.com/video/842064037"
-        }
-      ],
-      "labels": [
-        "canva"
-      ],
-      "tags": [
-        "firebase",
-        "fcm",
-        "sdk"
-      ]
-    },    {
-      "id": "C124",
-      "name": "Update: Firebase SDK",
-      "title": "Update Firebase SDK before deadline",
-      "description": "If you are using Google Firebase Cloud Messaging APIs and SDKs, you may have received an email recently asking you to update your apps to the latest versions of those APIs & SDKs.",
-      "price": 4.99,
-      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/background/intro_bg.jpg",
-      "previewUrl": "https://player.vimeo.com/video/127116767",
-      "pageUrl": "https://getsnowpal.com/#13-firebase-cloud-messaging-update",
-      "lastModified": "2013-06-07",
-      "chapters": [
-        {
-          "title": "Chapter 1",
-          "description": "This is chapter 1",
-          "thumbnail": "https://learn-ui-production.s3.amazonaws.com/background/intro_bg.jpg",
-          "url": "https://player.vimeo.com/video/836772990"
-        },
-        {
-          "title": "Chapter 2",
-          "description": "This is chapter 2",
-          "thumbnail": "https://learn-ui-production.s3.amazonaws.com/background/intro_bg.jpg",
-          "url": "https://player.vimeo.com/video/842064037"
-        }
-      ],
-      "labels": [
-        "canva"
-      ],
-      "tags": [
-        "firebase",
-        "fcm",
-        "sdk"
-      ]
-    },    {
-      "id": "C124",
-      "name": "Update: Firebase SDK",
-      "title": "Update Firebase SDK before deadline",
-      "description": "If you are using Google Firebase Cloud Messaging APIs and SDKs, you may have received an email recently asking you to update your apps to the latest versions of those APIs & SDKs.",
-      "price": 4.99,
-      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/background/intro_bg.jpg",
-      "previewUrl": "https://player.vimeo.com/video/127116767",
-      "pageUrl": "https://getsnowpal.com/#13-firebase-cloud-messaging-update",
-      "lastModified": "2013-06-07",
-      "chapters": [
-        {
-          "title": "Chapter 1",
-          "description": "This is chapter 1",
-          "thumbnail": "https://learn-ui-production.s3.amazonaws.com/background/intro_bg.jpg",
-          "url": "https://player.vimeo.com/video/836772990"
-        },
-        {
-          "title": "Chapter 2",
-          "description": "This is chapter 2",
-          "thumbnail": "https://learn-ui-production.s3.amazonaws.com/background/intro_bg.jpg",
-          "url": "https://player.vimeo.com/video/842064037"
-        }
-      ],
-      "labels": [
-        "canva"
-      ],
-      "tags": [
-        "firebase",
-        "fcm",
-        "sdk"
-      ]
-    },    {
-      "id": "C124",
-      "name": "Update: Firebase SDK",
-      "title": "Update Firebase SDK before deadline",
-      "description": "If you are using Google Firebase Cloud Messaging APIs and SDKs, you may have received an email recently asking you to update your apps to the latest versions of those APIs & SDKs.",
-      "price": 4.99,
-      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/background/intro_bg.jpg",
-      "previewUrl": "https://player.vimeo.com/video/127116767",
-      "pageUrl": "https://getsnowpal.com/#13-firebase-cloud-messaging-update",
-      "lastModified": "2013-06-07",
-      "chapters": [
-        {
-          "title": "Chapter 1",
-          "description": "This is chapter 1",
-          "thumbnail": "https://learn-ui-production.s3.amazonaws.com/background/intro_bg.jpg",
-          "url": "https://player.vimeo.com/video/836772990"
-        },
-        {
-          "title": "Chapter 2",
-          "description": "This is chapter 2",
-          "thumbnail": "https://learn-ui-production.s3.amazonaws.com/background/intro_bg.jpg",
-          "url": "https://player.vimeo.com/video/842064037"
-        }
-      ],
-      "labels": [
-        "canva"
-      ],
-      "tags": [
-        "firebase",
-        "fcm",
-        "sdk"
-      ]
-    },    {
-      "id": "C124",
-      "name": "Update: Firebase SDK",
-      "title": "Update Firebase SDK before deadline",
-      "description": "If you are using Google Firebase Cloud Messaging APIs and SDKs, you may have received an email recently asking you to update your apps to the latest versions of those APIs & SDKs.",
-      "price": 4.99,
-      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/background/intro_bg.jpg",
-      "previewUrl": "https://player.vimeo.com/video/127116767",
-      "pageUrl": "https://getsnowpal.com/#13-firebase-cloud-messaging-update",
-      "lastModified": "2013-06-07",
-      "chapters": [
-        {
-          "title": "Chapter 1",
-          "description": "This is chapter 1",
-          "thumbnail": "https://learn-ui-production.s3.amazonaws.com/background/intro_bg.jpg",
-          "url": "https://player.vimeo.com/video/836772990"
-        },
-        {
-          "title": "Chapter 2",
-          "description": "This is chapter 2",
-          "thumbnail": "https://learn-ui-production.s3.amazonaws.com/background/intro_bg.jpg",
-          "url": "https://player.vimeo.com/video/842064037"
-        }
-      ],
-      "labels": [
-        "canva"
-      ],
-      "tags": [
-        "firebase",
-        "fcm",
-        "sdk"
-      ]
-    },    {
-      "id": "C124",
-      "name": "Update: Firebase SDK",
-      "title": "Update Firebase SDK before deadline",
-      "description": "If you are using Google Firebase Cloud Messaging APIs and SDKs, you may have received an email recently asking you to update your apps to the latest versions of those APIs & SDKs.",
-      "price": 4.99,
-      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/background/intro_bg.jpg",
-      "previewUrl": "https://player.vimeo.com/video/127116767",
-      "pageUrl": "https://getsnowpal.com/#13-firebase-cloud-messaging-update",
-      "lastModified": "2013-06-07",
-      "chapters": [
-        {
-          "title": "Chapter 1",
-          "description": "This is chapter 1",
-          "thumbnail": "https://learn-ui-production.s3.amazonaws.com/background/intro_bg.jpg",
-          "url": "https://player.vimeo.com/video/836772990"
-        },
-        {
-          "title": "Chapter 2",
-          "description": "This is chapter 2",
-          "thumbnail": "https://learn-ui-production.s3.amazonaws.com/background/intro_bg.jpg",
-          "url": "https://player.vimeo.com/video/842064037"
-        }
-      ],
-      "labels": [
-        "canva"
-      ],
-      "tags": [
-        "firebase",
-        "fcm",
-        "sdk"
       ]
     },
     {
@@ -271,13 +44,42 @@
         {
           "title": "Chapter 1",
           "description": "This is chapter 1",
-          "thumbnail": "https://learn-ui-production.s3.amazonaws.com/background/intro_bg.jpg",
           "url": "https://player.vimeo.com/video/836772990"
         },
         {
           "title": "Chapter 2",
           "description": "This is chapter 2",
-          "thumbnail": "https://learn-ui-production.s3.amazonaws.com/background/intro_bg.jpg",
+          "url": "https://player.vimeo.com/video/842064037"
+        }
+      ],
+      "labels": [
+        "canva"
+      ],
+      "tags": [
+        "firebase",
+        "fcm",
+        "sdk"
+      ]
+    },
+    {
+      "id": "C125",
+      "name": "Build your own course",
+      "title": "Sometimes, we exactly know what we want to learn. Other times, we have an idea but could use someone (who's done this dime a dozen times) to help us pick the next thing to learn.",
+      "description": "We are all wonderfully unique individuals, and therefore, we certainly deserve to be treated as such. Too often, we see places of higher learning treat us all like a single entity, and serve premade, frozen burgers that leave no room for customization.",
+      "price": "",
+      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/background/intro_bg.jpg",
+      "previewUrl": "https://player.vimeo.com/video/127116767",
+      "pageUrl": "https://getsnowpal.com/#13-firebase-cloud-messaging-update",
+      "lastModified": "2013-06-07",
+      "chapters": [
+        {
+          "title": "Chapter 1",
+          "description": "This is chapter 1",
+          "url": "https://player.vimeo.com/video/836772990"
+        },
+        {
+          "title": "Chapter 2",
+          "description": "This is chapter 2",
           "url": "https://player.vimeo.com/video/842064037"
         }
       ],
