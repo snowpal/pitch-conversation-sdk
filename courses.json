@@ -33,7 +33,7 @@
     {
       "id": "C124",
       "name": "Update: Firebase SDK",
-      "title": "Update Firebase SDK before deadline",
+      "title": "Update Firebase SDK before deadline and If you are using Google Firebase Cloud Messaging APIs and SDKs, you may have received",
       "description": "If you are using Google Firebase Cloud Messaging APIs and SDKs, you may have received an email recently asking you to update your apps to the latest versions of those APIs & SDKs.",
       "price": 4.99,
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/background/intro_bg.jpg",
