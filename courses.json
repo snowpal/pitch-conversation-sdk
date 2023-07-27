@@ -68,7 +68,7 @@
       "name": "Build your own course",
       "title": "Sometimes, we exactly know what we want to learn. Other times, we have an idea but could use someone (who's done this dime a dozen times) to help us pick the next thing to learn.",
       "description": "We are all wonderfully unique individuals, and therefore, we certainly deserve to be treated as such. Too often, we see places of higher learning treat us all like a single entity, and serve premade, frozen burgers that leave no room for customization.",
-      "price": "",
+      "price": 0.0,
       "productId": "udemy_35000_1y:udemy-1y",
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/background/intro_bg.jpg",
       "previewUrl": "https://player.vimeo.com/video/127116767",
