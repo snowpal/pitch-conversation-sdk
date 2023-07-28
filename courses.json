@@ -7,7 +7,7 @@
       "description": "There's a number of ways to build a website. Of course. There is also a myriad of tools that will help you build sites in quick time. However, a lot of them end up taking a lot of time in the long run even if they look promising at first.",
       "price": 3.99,
       "revenueCat": {
-        "playstoreProductID": "canva_399",
+        "playStoreProductID": "canva_399",
         "appStoreProductID": ""
       },
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/background/intro_bg.jpg",
@@ -41,7 +41,7 @@
       "description": "If you are using Google Firebase Cloud Messaging APIs and SDKs, you may have received an email recently asking you to update your apps to the latest versions of those APIs & SDKs.",
       "price": 4.99,
       "revenueCat": {
-        "playstoreProductID": "firebase_499",
+        "playStoreProductID": "firebase_499",
         "appStoreProductID": ""
       },
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/background/intro_bg.jpg",
