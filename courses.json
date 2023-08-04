@@ -38,7 +38,7 @@
       ]
     },
     {
-      "id": "C123",
+      "id": "C102",
       "name": "Manage Projects on Github",
       "title": "Being closer to your repos makes project management a lot easier.",
       "description": "At Snowpal, we have numerous apps in Production. And at least, 4 different environments per App (in some cases, a few more). Therefore, at any given time, we have a varied set of versions deployed across these environments. As a Project Manager (regardless of how technical you are), this can get rather challenging.",
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "id": "C124",
+      "id": "C103",
       "name": "Update: Firebase SDK",
       "title": "If you are using Google Firebase Cloud Messaging APIs and SDKs, you may have received",
       "description": "If you are using Google Firebase Cloud Messaging APIs and SDKs, you may have received an email recently asking you to update your apps to the latest versions of those APIs & SDKs.",
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "id": "C125",
+      "id": "C104",
       "name": "Build your own course",
       "title": "Sometimes, we exactly know what we want to learn. Other times, we have an idea but could use someone (who's done this dime a dozen times) to help us pick the next thing to learn.",
       "description": "We are all wonderfully unique individuals, and therefore, we certainly deserve to be treated as such. Too often, we see places of higher learning treat us all like a single entity, and serve premade, frozen burgers that leave no room for customization.",
