@@ -134,7 +134,10 @@
         }
       ],
       "labels": [
-        "canva"
+        "canva",
+        "firebase",
+        "fcm",
+        "sdk"
       ],
       "tags": [
         "firebase",
