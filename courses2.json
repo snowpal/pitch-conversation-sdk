@@ -104,7 +104,6 @@
       "chapters": [
         {
           "title": "Chapter 1",
-          "description": "Part 1",
           "url": "https://player.vimeo.com/video/836772990?h=7a85f7fd03"
         },
         {
@@ -114,7 +113,6 @@
         },
         {
           "title": "Chapter 3",
-          "description": "Part 3",
           "url": "https://player.vimeo.com/video/836774597?h=a0a8de5cd7"
         }
       ],
