@@ -18,7 +18,8 @@
         "appStoreProductID": "aws_api_gateway_intro"
       },
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/aws.jpg",
-      "previewUrl": "https://player.vimeo.com/video/827116753",
+      "previewUrl_OLD": "https://player.vimeo.com/video/827116753",
+      "previewUrl": "https://www.icloud.com/iclouddrive/05d2XL3xI5X8Mx6bLNm0bsQVw#Courses_on_web",
       "pageUrl": "https://getsnowpal.com/#5-aws-api-gateway-introduction",
       "lastModified": "2023-07-01",
       "chapters": [
