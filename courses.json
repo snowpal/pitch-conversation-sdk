@@ -1641,13 +1641,13 @@
     },
     {
       "id": "ENT100",
-      "name": "How to play Texas Hold em Poker",
+      "name": "How to play Texas Hold 'em Poker",
       "title": "Texas Hold em can be a lot of fun when played for recreational purposes. Let us take a quick look at some of the basics of playing this game. (Length: 40 minutes)",
-      "description": "Texas Hold em is a game that has continued to grow in popularity, and as someone, who plays it occasionally for recreational purposes, I figured it might be worthwhile to create a quick course on it (if not for anything else but simply for fun!). If you have never played poker, or have played it occasionally, this course may help you become a slightly better recreational player.",
+      "description": "Texas Hold 'em is a `game that has continued to grow in popularity, and as someone, who plays it occasionally for recreational purposes, I figured it might be worthwhile to create a quick course on it (if not for anything else but simply for fun!). If you have never played poker, or have played it occasionally, this course may help you become a slightly better recreational player.",
       "mobile": {
         "descriptions": [
-          "Texas Hold em is a game that has continued to grow in popularity, and as someone, who plays it occasionally for recreational purposes, I figured it might be worthwhile to create a quick course on it (if not for anything else but simply for fun!). If you have never played poker, or have played it occasionally, this course may help you become a slightly better recreational player.",
-          "Texas Hold em can be a lot of fun when played for recreational purposes. Let us take a quick look at some of the basics of playing this game."
+          "Texas Hold 'em is a `game that has continued to grow in popularity, and as someone, who plays it occasionally for recreational purposes, I figured it might be worthwhile to create a quick course on it (if not for anything else but simply for fun!). If you have never played poker, or have played it occasionally, this course may help you become a slightly better recreational player.",
+          "Texas Hold 'em can be a lot of fun when played for recreational purposes. Let us take a quick look at some of the basics of playing this game."
         ],
         "previewImage": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-poker.jpg"
       },
