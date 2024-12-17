@@ -1376,16 +1376,16 @@
           "Starting to trade and invest at a young age will help you achieve your financial goals in the long run. Even if you are someone who has done a bit of trading but are unsure about some of the terminologies and risks associated with trading, you will likely find value in this first course. We will publish more Finance courses in future where we will be discussing a variety of related topics, and this first course is meant to serve as the foundation for the rest to follow. In this course, we will help you understand the basics of investing (how much to invest, when to invest, why to invest, how to invest and so on).",
           "Learn the basics of trading. If you are looking to become an investor and are wary of the associated risks, this course should help you build your confidence."
         ],
-        "previewImage": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-stock-trading.jpg"
+        "previewImage": "https://learn-ui-production.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-stock-trading.jpg"
       },
       "price": 9.99,
       "revenueCat": {
         "playStoreProductID": "getting_started_with_trading_stocks",
         "appStoreProductID": "getting_started_with_trading_stocks"
       },
-      "thumbnail": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/thumbnails/stocks.jpg",
+      "thumbnail": "https://learn-ui-production.s3.us-east-1.amazonaws.com/config/courses/thumbnails/stocks.jpg",
       "previewUrl": "https://player.vimeo.com/video/1020014208",
-      "pageUrl": "https://getsnowpal.com/#36-getting-started-with-trading-stocks",
+      "pageUrl": "https://getsnowpal.com/#36-st-101-get-started-with-trading-stocks",
       "lastModified": "2024-12-04",
       "chapters": [
         {
@@ -1403,6 +1403,396 @@
         "stocks",
         "investment",
         "trading"
+      ]
+    },
+    {
+      "id": "FIN105",
+      "name": "Stocks: Buy, Sell, Short, Cover",
+      "title": "We will do a few different types of trades in this course by taking a hands-on approach. If you are a newbie, you are likely to benefit from it immensely. That said, it should help investors with some experience as well. (Length: 54 minutes)",
+      "description": "In this course, we will take a look at some of the common types of trades (and maybe, a little beyond them as well). We will pick a platform to trade (and do some paper trades), select some securities to perform a few different types of trades on, and see how goes. If you have not done any trading, or have done a little but not a whole not, this course should help answer a few questions.",
+      "mobile": {
+        "descriptions": [
+          "In this course, we will take a look at some of the common types of trades (and maybe, a little beyond them as well). We will pick a platform to trade (and do some paper trades), select some securities to perform a few different types of trades on, and see how goes. If you have not done any trading, or have done a little but not a whole not, this course should help answer a few questions.",
+          "We will do a few different types of trades in this course by taking a hands-on approach. If you are a newbie, you are likely to benefit from it immensely. That said, it should help investors with some experience as well."
+        ],
+        "previewImage": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-buy-sell-short-cover.jpg"
+      },
+      "price": 9.99,
+      "revenueCat": {
+        "playStoreProductID": "buy_sell_short_cover_stocks",
+        "appStoreProductID": "buy_sell_short_cover_stocks"
+      },
+      "thumbnail": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/thumbnails/buy-sell-short-cover.jpg",
+      "previewUrl": "https://player.vimeo.com/video/1020014919",
+      "pageUrl": "https://getsnowpal.com/#37-st-102-stocks-buy-sell-short-cover",
+      "lastModified": "2024-12-17",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/1020017914?h=3ab7e67265"
+        }
+      ],
+      "labels": [
+        "stocks",
+        "investment",
+        "trading"
+      ],
+      "tags": [
+        "stocks",
+        "investment",
+        "trading"
+      ]
+    },
+    {
+      "id": "FIN110",
+      "name": "Stocks: Find the best companies to invest in",
+      "title": "Curious what a PE ratio is? Or what the difference between that and a PEG ratio is? Which one should you go with? (Length: 66 minutes)",
+      "description": "We will take a look at some of the ways to find the best companies to invest (both short term and long term). This, in itself, is a broad topic and not something we can cover in an hour but the idea is to equip you with necessary knowledge and awareness to get started. We’ll review PE Ratio, PEG Ratio, EBITDA, and more.",
+      "mobile": {
+        "descriptions": [
+          "We will take a look at some of the ways to find the best companies to invest (both short term and long term). This, in itself, is a broad topic and not something we can cover in an hour but the idea is to equip you with necessary knowledge and awareness to get started. We’ll review PE Ratio, PEG Ratio, EBITDA, and more.",
+          "Curious what a PE ratio is? Or what the difference between that and a PEG ratio is? Which one should you go with?"
+        ],
+        "previewImage": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-find-best-companies.jpg"
+      },
+      "price": 9.99,
+      "revenueCat": {
+        "playStoreProductID": "find_the_best_companies",
+        "appStoreProductID": "find_the_best_companies"
+      },
+      "thumbnail": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/thumbnails/find-best-companies.jpg",
+      "previewUrl": "https://player.vimeo.com/video/1020018254",
+      "pageUrl": "https://getsnowpal.com/#38-st-103-stocks-find-the-best-companies-to-invest-in",
+      "lastModified": "2024-12-17",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/1020018443?h=586424df36"
+        }
+      ],
+      "labels": [
+        "stocks",
+        "investment",
+        "trading"
+      ],
+      "tags": [
+        "stocks",
+        "investment",
+        "trading"
+      ]
+    },
+    {
+      "id": "FIN115",
+      "name": "Stocks: Portfolio Management",
+      "title": "Creating portfolios is not particularly hard but doing it efficiently can make all the difference between a profitable trade and a losing one as a day trader. (Length: 67 minutes)",
+      "description": "We discussed ratios in the last course and in this one, we will take a look at managing portfolios, understand the differences to investment as a Day Trader vs an Investor, and also, take a look at a few different charts. There are a number of public companies and selecting a handful to invest in can be rather challenging without the right set of tools so we will take a look at a few tools.",
+      "mobile": {
+        "descriptions": [
+          "We discussed ratios in the last course and in this one, we will take a look at managing portfolios, understand the differences to investment as a Day Trader vs an Investor, and also, take a look at a few different charts. There are a number of public companies and selecting a handful to invest in can be rather challenging without the right set of tools so we will take a look at a few tools.",
+          "Creating portfolios is not particularly hard but doing it efficiently can make all the difference between a profitable trade and a losing one as a day trader."
+        ],
+        "previewImage": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-portfolio-management.jpg"
+      },
+      "price": 9.99,
+      "revenueCat": {
+        "playStoreProductID": "portfolio_management",
+        "appStoreProductID": "portfolio_management"
+      },
+      "thumbnail": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/thumbnails/portfolio-management.jpg",
+      "previewUrl": "https://player.vimeo.com/video/1020017632",
+      "pageUrl": "https://getsnowpal.com/#39-st-104-stocks-portfolio-management",
+      "lastModified": "2024-12-17",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/1020017159?h=5ad4143e0d"
+        }
+      ],
+      "labels": [
+        "stocks",
+        "investment",
+        "trading"
+      ],
+      "tags": [
+        "stocks",
+        "investment",
+        "trading"
+      ]
+    },
+    {
+      "id": "TECH100",
+      "name": "Weaviate: Open Source Vector Database",
+      "title": "Weaviate is an open source AI-native database, and is one I stumbled into recently. (Length: 90 minutes)",
+      "description": "If you are building AI Applications, you should consider leveraging Vector Databases as they bring a lot of specific value to the table. In this course, we will learn a bit about Vector Databases taking Weaviate as an example, and do a tiny bit of hands on work.",
+      "mobile": {
+        "descriptions": [
+          "If you are building AI Applications, you should consider leveraging Vector Databases as they bring a lot of specific value to the table. In this course, we will learn a bit about Vector Databases taking Weaviate as an example, and do a tiny bit of hands on work.",
+          "Weaviate is an open source AI-native database, and is one I stumbled into recently."
+        ],
+        "previewImage": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-weaviate.jpg"
+      },
+      "price": 6.99,
+      "revenueCat": {
+        "playStoreProductID": "weaviate_database",
+        "appStoreProductID": "weaviate_database"
+      },
+      "thumbnail": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/thumbnails/weaviate.jpg",
+      "previewUrl": "https://player.vimeo.com/video/1020021091",
+      "pageUrl": "https://getsnowpal.com/#40-weaviate-open-source-vector-database",
+      "lastModified": "2024-12-17",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/1020022094?h=2208ce990c"
+        }
+      ],
+      "labels": [
+        "vector",
+        "database",
+        "ai"
+      ],
+      "tags": [
+        "vector",
+        "database",
+        "ai"
+      ]
+    },
+    {
+      "id": "BUS100",
+      "name": "Running a SaaS Business",
+      "title": "Do you ever dream of becoming an entrepreneur? Is that something you’ve wanted to do for a while but need a tiny bit of help getting started? (Length: 80 minutes)",
+      "description": "As someone who has always wanted to be an entrepreneur and as someone who decided to quit a stable, full time job to do this, I can share a few things with you that might help you in your own journey. Over the years, I have learned plenty and while there is a lot more to learn, I feel like I can share some of my experiences with you so you make fewer mistakes than I did.",
+      "mobile": {
+        "descriptions": [
+          "As someone who has always wanted to be an entrepreneur and as someone who decided to quit a stable, full time job to do this, I can share a few things with you that might help you in your own journey. Over the years, I have learned plenty and while there is a lot more to learn, I feel like I can share some of my experiences with you so you make fewer mistakes than I did.",
+          "Do you ever dream of becoming an entrepreneur? Is that something you’ve wanted to do for a while but need a tiny bit of help getting started?"
+        ],
+        "previewImage": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-running-business.jpg"
+      },
+      "price": 9.89,
+      "revenueCat": {
+        "playStoreProductID": "running_business",
+        "appStoreProductID": "running_business"
+      },
+      "thumbnail": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/thumbnails/running-business.jpg",
+      "previewUrl": "https://player.vimeo.com/video/1020013611",
+      "pageUrl": "https://getsnowpal.com/#41-running-a-saas-business",
+      "lastModified": "2024-12-17",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/1020019242?h=33426e444c"
+        }
+      ],
+      "labels": [
+        "startup",
+        "entrepreneurship",
+        "saas"
+      ],
+      "tags": [
+        "startup",
+        "entrepreneurship",
+        "saas"
+      ]
+    },
+    {
+      "id": "FIN120",
+      "name": "How to Research Stocks",
+      "title": "Not many people can time the stock market so most folks try to increase their “time in the market”. For that approach to be successful, picking the right set of securities is key. (Length: 60 minutes)",
+      "description": "You have watched our previous courses on this subject and feel ready to trade. Now, it is time to find the right security to trade! In this course, we will go over a few methodologies you could follow to help you pick the right stock to trade given both micro and macro economic conditions. There are numerous ways to skin this cat so we will look at a few approaches that have worked well for us.",
+      "mobile": {
+        "descriptions": [
+          "You have watched our previous courses on this subject and feel ready to trade. Now, it is time to find the right security to trade! In this course, we will go over a few methodologies you could follow to help you pick the right stock to trade given both micro and macro economic conditions. There are numerous ways to skin this cat so we will look at a few approaches that have worked well for us.",
+          "Not many people can time the stock market so most folks try to increase their “time in the market”. For that approach to be successful, picking the right set of securities is key."
+        ],
+        "previewImage": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-stock-research.jpg"
+      },
+      "price": 8.99,
+      "revenueCat": {
+        "playStoreProductID": "stock_research",
+        "appStoreProductID": "stock_research"
+      },
+      "thumbnail": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/thumbnails/stock-research.jpg",
+      "previewUrl": "https://player.vimeo.com/video/1020012253",
+      "pageUrl": "https://getsnowpal.com/#42-st-105-how-to-research-stocks",
+      "lastModified": "2024-12-17",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/1020011867?h=63c50eb939"
+        }
+      ],
+      "labels": [
+        "trading",
+        "stocks",
+        "investment"
+      ],
+      "tags": [
+        "trading",
+        "stocks",
+        "investment"
+      ]
+    },
+    {
+      "id": "ENT100",
+      "name": "How to play Texas Hold ‘em Poker",
+      "title": "Texas Hold ‘em can be a lot of fun when played for recreational purposes. Let us take a quick look at some of the basics of playing this game. (Length: 40 minutes)",
+      "description": "Texas Hold ‘em is a game that has continued to grow in popularity, and as someone, who plays it occasionally for recreational purposes, I figured it might be worthwhile to create a quick course on it (if not for anything else but simply for fun!). If you have never played poker, or have played it occasionally, this course may help you become a slightly better recreational player.",
+      "mobile": {
+        "descriptions": [
+          "Texas Hold ‘em is a game that has continued to grow in popularity, and as someone, who plays it occasionally for recreational purposes, I figured it might be worthwhile to create a quick course on it (if not for anything else but simply for fun!). If you have never played poker, or have played it occasionally, this course may help you become a slightly better recreational player.",
+          "Texas Hold ‘em can be a lot of fun when played for recreational purposes. Let us take a quick look at some of the basics of playing this game."
+        ],
+        "previewImage": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-poker.jpg"
+      },
+      "price": 9.99,
+      "revenueCat": {
+        "playStoreProductID": "how_to_play_poker",
+        "appStoreProductID": "how_to_play_poker"
+      },
+      "thumbnail": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/thumbnails/poker.jpg",
+      "previewUrl": "https://player.vimeo.com/video/1020007534",
+      "pageUrl": "https://getsnowpal.com/#43-how-to-play-texas-hold-%E2%80%98em-poker",
+      "lastModified": "2024-12-17",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/1020006170?h=c5576e1444"
+        }
+      ],
+      "labels": [
+        "gambling",
+        "casino",
+        "poker"
+      ],
+      "tags": [
+        "gambling",
+        "casino",
+        "poker"
+      ]
+    },
+    {
+      "id": "BUS105",
+      "name": "Basics of Product Management",
+      "title": "Are you a Software Developer looking to become a Product Manager? Or, a new graduate who is interested in Product Management as a career? (Length: 50 minutes)",
+      "description": "This course should help you get a head start on some of the basics of managing software products at work. The example we will go over is a real one, and is based on one of our current apps (snowpal.com) which is a Project Management platform.",
+      "mobile": {
+        "descriptions": [
+          "This course should help you get a head start on some of the basics of managing software products at work. The example we will go over is a real one, and is based on one of our current apps (snowpal.com) which is a Project Management platform.",
+          "Are you a Software Developer looking to become a Product Manager? Or, a new graduate who is interested in Product Management as a career?"
+        ],
+        "previewImage": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-product-management.jpg"
+      },
+      "price": 7.99,
+      "revenueCat": {
+        "playStoreProductID": "basics_of_product_management",
+        "appStoreProductID": "basics_of_product_management"
+      },
+      "thumbnail": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/thumbnails/product-management.jpg",
+      "previewUrl": "https://player.vimeo.com/video/1020002888",
+      "pageUrl": "https://getsnowpal.com/#44-basics-of-product-management",
+      "lastModified": "2024-12-17",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/1020007253?h=89f61abf8c"
+        }
+      ],
+      "labels": [
+        "product",
+        "management",
+        "career"
+      ],
+      "tags": [
+        "product",
+        "management",
+        "career"
+      ]
+    },
+    {
+      "id": "FIN125",
+      "name": "Day Trading Stocks: Part 1",
+      "title": "Day Trading is not for everyone. But if you are the kind of person who might enjoy it, there are a few things you would likely be better off knowing. (Length: 65 minutes)",
+      "description": "In this course, we will explore a few different facets of Day Trading, and see if we can potentially find some lucrative approaches. While the course will focus on US Equities, the underlying fundamentals should be applicable no matter where you live, and trade.",
+      "mobile": {
+        "descriptions": [
+          "In this course, we will explore a few different facets of Day Trading, and see if we can potentially find some lucrative approaches. While the course will focus on US Equities, the underlying fundamentals should be applicable no matter where you live, and trade.",
+          "Day Trading is not for everyone. But if you are the kind of person who might enjoy it, there are a few things you would likely be better off knowing."
+        ],
+        "previewImage": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-day-trading-1.jpg"
+      },
+      "price": 9.49,
+      "revenueCat": {
+        "playStoreProductID": "day_trading_basics",
+        "appStoreProductID": "day_trading_basics"
+      },
+      "thumbnail": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/thumbnails/day-trading-1.jpg",
+      "previewUrl": "https://player.vimeo.com/video/1020792323",
+      "pageUrl": "https://getsnowpal.com/#45-st-106-day-trading-stocks-part-1",
+      "lastModified": "2024-12-17",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/1020800349?h=9fad73eac0"
+        }
+      ],
+      "labels": [
+        "trading",
+        "stocks",
+        "investment"
+      ],
+      "tags": [
+        "trading",
+        "stocks",
+        "investment"
+      ]
+    },
+    {
+      "id": "FIN130",
+      "name": "Day Trading Stocks: Part 2",
+      "title": "In the last course, we discussed some of the fundamentals of day trading. We will pick up from where we left off, and continue to delve a little deeper into it. (Length: 58 minutes)",
+      "description": "As a follow up to the previous course, we will look at some of the steps involved in picking securities to trade during the course of a given day. How should we go about doing it, what should we be looking at, and more.",
+      "mobile": {
+        "descriptions": [
+          "As a follow up to the previous course, we will look at some of the steps involved in picking securities to trade during the course of a given day. How should we go about doing it, what should we be looking at, and more.",
+          "In the last course, we discussed some of the fundamentals of day trading. We will pick up from where we left off, and continue to delve a little deeper into it."
+        ],
+        "previewImage": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-day-trading-2.jpg"
+      },
+      "price": 8.49,
+      "revenueCat": {
+        "playStoreProductID": "day_trading_process",
+        "appStoreProductID": "day_trading_process"
+      },
+      "thumbnail": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/thumbnails/day-trading-2.jpg",
+      "previewUrl": "https://player.vimeo.com/video/1020819849",
+      "pageUrl": "https://getsnowpal.com/#46-st-107-day-trading-stocks-part-2",
+      "lastModified": "2024-12-17",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/1020819859?h=76f82b5d6c"
+        }
+      ],
+      "labels": [
+        "trading",
+        "stocks",
+        "investment"
+      ],
+      "tags": [
+        "trading",
+        "stocks",
+        "investment"
       ]
     },
     {
