@@ -1,0 +1,1901 @@
+{
+  "courses": [
+    {
+      "id": "DEV100",
+      "name": "AWS API Gateway - Introduction",
+      "title": "AWS is an ocean as we all know. It feels like there's a new AWS Service that comes into existence every single day. In this course, we will take a high level look at API Gateway (Length: 32 minutes).",
+      "description": "Snowpal began its presence as a B2C company but with the recent launch of our APIs (6 of them, and growing!), we have officially entered the B2B space. And we couldn't be more excited about it! As part of the efforts that went into the launch of our very first API, we learned very many things but also realized one important thing: a lot of what you need to know to build APIs is not documented well. Sure, there's no dearth of documentation but good luck navigating through all of that on your own. We would be sharing a lot of our learnings in our API Gateway Course Series, the first of which is available for you to purchase now. Do not wait to get started!",
+      "mobile": {
+        "descriptions": [
+          "Snowpal began its presence as a B2C company but with the recent launch of our APIs (6 of them, and growing!), we have officially entered the B2B space. And we couldn't be more excited about it! As part of the efforts that went into the launch of our very first API, we learned very many things but also realized one important thing: a lot of what you need to know to build APIs is not documented well. Sure, there's no dearth of documentation but good luck navigating through all of that on your own. We would be sharing a lot of our learnings in our API Gateway Course Series, the first of which is available for you to purchase now. Do not wait to get started!",
+          "AWS is an ocean as we all know. It feels like there's a new AWS Service that comes into existence every single day. In this course, we will take a high level look at API Gateway."
+        ],
+        "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-gateway.jpg"
+      },
+      "price": 4.99,
+      "revenueCat": {
+        "playStoreProductID": "aws_api_gateway_intro",
+        "appStoreProductID": "aws_api_gateway_intro"
+      },
+      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/aws.jpg",
+      "previewUrl": "https://player.vimeo.com/video/827116753",
+      "pageUrl": "https://getsnowpal.com/#5-aws-api-gateway-introduction",
+      "lastModified": "2023-07-01",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/836764569?h=7bae4b9a8d"
+        }
+      ],
+      "labels": [
+        "aws",
+        "api",
+        "gateway",
+        "service"
+      ],
+      "tags": [
+        "aws",
+        "api gateway"
+      ]
+    },
+    {
+      "id": "PRJ100",
+      "name": "Manage Projects on Github",
+      "title": "GitHub Projects has changed quite a bit over the years. While we've used other solutions in the past for managing our issues across repos, we've come to realize the benefits of using a solution that lives smack next to our repos (Length: 37 minutes).",
+      "description": "Being closer to your repos makes project management a lot easier. At Snowpal, we have numerous apps in Production. And at least, 4 different environments per App (in some cases, a few more). Therefore, at any given time, we have a varied set of versions deployed across these environments. As a Project Manager (regardless of how technical you are), this can get rather challenging. A good process to manage multiple repos, multiple apps, and multiple developers is one that would hold you in good stead.",
+      "mobile": {
+        "descriptions": [
+          "Being closer to your repos makes project management a lot easier. At Snowpal, we have numerous apps in Production. And at least, 4 different environments per App (in some cases, a few more). Therefore, at any given time, we have a varied set of versions deployed across these environments. As a Project Manager (regardless of how technical you are), this can get rather challenging. A good process to manage multiple repos, multiple apps, and multiple developers is one that would hold you in good stead.",
+          "GitHub Projects has changed quite a bit over the years. While we've used other solutions in the past for managing our issues across repos, we've come to realize the benefits of using a solution that lives smack next to our repos."
+        ],
+        "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-github.jpg"
+      },
+      "price": 3.99,
+      "revenueCat": {
+        "playStoreProductID": "manage_projects_on_github",
+        "appStoreProductID": "manage_projects_on_github"
+      },
+      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/github.jpg",
+      "previewUrl": "https://player.vimeo.com/video/827116738",
+      "pageUrl": "https://getsnowpal.com/#3-github-project-management",
+      "lastModified": "2023-07-01",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/836767141?h=c1b4abb25d"
+        }
+      ],
+      "labels": [
+        "github",
+        "project",
+        "management",
+        "repository"
+      ],
+      "tags": [
+        "github",
+        "project"
+      ]
+    },
+    {
+      "id": "DSG100",
+      "name": "Build a Website on Canva",
+      "title": "Canva is one of the most popular tools out there, and whether you have a team dedicated to do creative work or otherwise, you would be well served to check it out. It saves us a ton of time (Length: 43 minutes).",
+      "description": "There's a number of ways to build a website. Of course. There is also a myriad of tools that will help you build sites in quick time. However, a lot of them end up taking a lot of time in the long run even if they look promising at first. Besides, some of them are specifically geared towards building websites. What if you wanted to generate a quick graphic and just that? What if you wanted to create presentations that didn't look dated? (read: Powerpoint!). Well, that's where Canva as a product makes a world of a difference. The website you are looking at right now was built in under an hour. Like it? If so, purchase this course.",
+      "mobile": {
+        "descriptions": [
+          "There's a number of ways to build a website. Of course. There is also a myriad of tools that will help you build sites in quick time. However, a lot of them end up taking a lot of time in the long run even if they look promising at first. Besides, some of them are specifically geared towards building websites. What if you wanted to generate a quick graphic and just that? What if you wanted to create presentations that didn't look dated? (read: Powerpoint!). Well, that's where Canva as a product makes a world of a difference. The website you are looking at right now was built in under an hour. Like it? If so, purchase this course.",
+          "Canva is one of the most popular tools out there, and whether you have a team dedicated to do creative work or otherwise, you would be well served to check it out. It saves us a ton of time."
+        ],
+        "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-canva.jpg"
+      },
+      "price": 5.99,
+      "revenueCat": {
+        "playStoreProductID": "build_website_on_canva",
+        "appStoreProductID": "build_website_on_canva"
+      },
+      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/canva.jpg",
+      "previewUrl": "https://player.vimeo.com/video/827116767",
+      "pageUrl": "https://getsnowpal.com/#4-build-website-on-canva",
+      "lastModified": "2023-07-01",
+      "chapters": [
+        {
+          "title": "Chapter 1",
+          "description": "We'll create 3 pages based on a template.",
+          "url": "https://player.vimeo.com/video/836772990?h=7a85f7fd03"
+        },
+        {
+          "title": "Chapter 2",
+          "description": "We'll add elements to pages, create animations, & reference a file attachment from box.com.",
+          "url": "https://player.vimeo.com/video/836773995?h=4ff22a0e18"
+        },
+        {
+          "title": "Chapter 3",
+          "description": "Record videos, and add them inline to pages. Look at Brand Templates.",
+          "url": "https://player.vimeo.com/video/836774597?h=a0a8de5cd7"
+        }
+      ],
+      "labels": [
+        "canva",
+        "website",
+        "building",
+        "design"
+      ],
+      "tags": [
+        "canva",
+        "website"
+      ]
+    },
+    {
+      "id": "DEV105",
+      "name": "How to use Postman API Client",
+      "title": "If you are building APIs, you are likely using Postman. You are also likely using it if you are consuming APIs. Let's look at some of the common Postman features you would mostly be using on a daily basis (Length: 46 minutes).",
+      "description": "Whether you are building APIs to monetize them directly, or to simply serve the backend needs for your Web, Mobile or Server Side Apps, using a good API client is imperative to your project's turnaround times (and therefore, your success, your team's success and your company's success). While there are quite a few options out there,  Postman is one of the most popular tools out there. It's likely you've heard of it, and it's likely you are even using it. But, are you using it well?  Are you enjoying the time you are spending on the tool, and is it serving your expectations just fine? If you are even slightly unsure, check out our course and we are quite confident it will help you use Postman better.",
+      "mobile": {
+        "descriptions": [
+          "Whether you are building APIs to monetize them directly, or to simply serve the backend needs for your Web, Mobile or Server Side Apps, using a good API client is imperative to your project's turnaround times (and therefore, your success, your team's success and your company's success). While there are quite a few options out there,  Postman is one of the most popular tools out there. It's likely you've heard of it, and it's likely you are even using it. But, are you using it well?  Are you enjoying the time you are spending on the tool, and is it serving your expectations just fine? If you are even slightly unsure, check out our course and we are quite confident it will help you use Postman better.",
+          "If you are building APIs, you are likely using Postman. You are also likely using it if you are consuming APIs. Let's look at some of the common Postman features you would mostly be using on a daily basis."
+        ],
+        "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-postman.jpg"
+      },
+      "price": 4.99,
+      "revenueCat": {
+        "playStoreProductID": "how_to_use_postman_client",
+        "appStoreProductID": "how_to_use_postman_client"
+      },
+      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/postman.jpg",
+      "previewUrl": "https://player.vimeo.com/video/827116778",
+      "pageUrl": "https://getsnowpal.com/#6-how-to-use-postman-api-client",
+      "lastModified": "2023-07-01",
+      "chapters": [
+        {
+          "title": "Chapter 1",
+          "description": "Introduction to Postman API Client. We'll take a look at Collections, and Endpoints.",
+          "url": "https://player.vimeo.com/video/836768572?h=bf00ab052a"
+        },
+        {
+          "title": "Chapter 2",
+          "description": "We'll add Headers, Enviroments, and APIs. Look at how to publish APIs to Custom Domains, and a bit more.",
+          "url": "https://player.vimeo.com/video/836770604?h=aa7832cf13"
+        }
+      ],
+      "labels": [
+        "postman",
+        "api",
+        "restapi"
+      ],
+      "tags": [
+        "postman",
+        "restapi"
+      ]
+    },
+    {
+      "id": "DEV110",
+      "name": "Flutter Mobile App - Caching",
+      "title": "Caching API responses allows you to reduce the number of networks calls, and make your pages render much faster (Length: 31 minutes).",
+      "description": "Say, your team worked real hard and built a wonderful app (one that solved real customer problems). You would be both proud and real excited to sell it. (And, why shouldn't you be!) Now, you take it to your customers and they report that the screens takes 2 to 3 seconds, on an average, to render. How would you feel? How would they feel? Your customers expect your app(s) to do what you promised in terms of functionality but they also expect it to perform well. That's a given in this day and age. And if your app makes an API request all the time, especially when it doesn't need to, it is going to slow it down, and will take everyone else's productivity along with it. But, don't you worry. I'll teach you how to implement caching on your Flutter App. It will make a world of a difference when it comes to your app's performance.",
+      "mobile": {
+        "descriptions": [
+          "Say, your team worked real hard and built a wonderful app. You would be both proud and real excited to sell it. (And, why shouldn't you be!) Now, you take it to your customers and they report that the screens take 2 to 3 seconds to render. How would you feel? How would they feel? Your customers surely expect your app to meet their implicit performance requirements. And if your app makes an API request frequently, it is going to slow it down, and will take everyone else's productivity along with it. But, don't you worry. I'll teach you how to implement caching on your Flutter App. It will make a world of a difference when it comes to your app's performance.",
+          "Caching API responses allows you to reduce the number of networks calls, and make your pages render much faster."
+        ],
+        "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-caching.jpg"
+      },
+      "price": 5.49,
+      "revenueCat": {
+        "playStoreProductID": "flutter_mobile_app_caching",
+        "appStoreProductID": "flutter_mobile_app_caching"
+      },
+      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/caching.jpg",
+      "previewUrl": "https://player.vimeo.com/video/827116732",
+      "pageUrl": "https://getsnowpal.com/#7-flutter-app-caching",
+      "lastModified": "2023-07-01",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/836764002?h=1a69fe8da8"
+        }
+      ],
+      "labels": [
+        "flutter",
+        "dart",
+        "caching",
+        "performance"
+      ],
+      "tags": [
+        "flutter",
+        "dart",
+        "caching",
+        "mobileapp"
+      ]
+    },
+    {
+      "id": "DEV115",
+      "name": "AWS Machine Learning with No Data Science Experience",
+      "title": "If you have an interest in exploring Machine Learning (who doesn't?) but have no Data Science experience, you can check this course out (Length: 33 minutes).",
+      "description": "Machine Learning is a fascinating field and a lot of us are scratching the surface, at best. I suspect we are going to spend a lot of our lives learning and excelling at everything that is Machine Learning related in the coming years. We look forward to the challenges eagerly, and as we embark on building our first ML API in the coming quarters, we wanted to take a moment to share some of our real high level learnings with you. This is ML 101 when it comes to me taking a crack at Machine Learning but I hope it piques your interest, and clarifies a few basic questions about some of Amazon's ML Services.",
+      "mobile": {
+        "descriptions": [
+          "Machine Learning is a fascinating field and a lot of us are scratching the surface, at best. I suspect we are going to spend a lot of our lives learning and excelling at everything that is Machine Learning related in the coming years. We look forward to the challenges eagerly, and as we embark on building our first ML API in the coming quarters, we wanted to take a moment to share some of our real high level learnings with you. This is ML 101 when it comes to me taking a crack at Machine Learning but I hope it piques your interest, and clarifies a few basic questions about some of Amazon's ML Services.",
+          "If you have an interest in exploring Machine Learning (who doesn't?) but have no Data Science experience, you can check this course out."
+        ],
+        "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-machine-learning.jpg"
+      },
+      "price": 4.99,
+      "revenueCat": {
+        "playStoreProductID": "aws_machine_learning",
+        "appStoreProductID": "aws_machine_learning"
+      },
+      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/machine-learning.jpg",
+      "previewUrl": "https://player.vimeo.com/video/836782646",
+      "pageUrl": "https://getsnowpal.com/#8-aws-machine-learning-with-no-data-experience",
+      "lastModified": "2023-07-01",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/836768981?h=21061a7ccb"
+        }
+      ],
+      "labels": [
+        "aws",
+        "machine",
+        "learning",
+        "lex"
+      ],
+      "tags": [
+        "aws",
+        "machinelearning",
+        "personalize",
+        "lambda",
+        "dynamodb"
+      ]
+    },
+    {
+      "id": "DEV120",
+      "name": "Implement Mind Map Chart (amCharts)",
+      "title": "If you want to display hierarchical data as a series of bubbles that are linked, a Mind Map is one of the best ways to go about it. amCharts offers a Force Directed Chart that is essentially a Mind Map (Length: 26 minutes).",
+      "description": "We use a variety of charts in one of our products (check out https://snowpal.com), and after assessing a number of Charting Libraries, we narrowed down on amCharts for a few different reasons. In this course, we'll take a brief look at one of the charts we love, Mind Maps. Or, as amCharts calls it, Force Directed Charts. We'll look at the JSON Data Structure required by the chart, a Mongo Aggregate Pipeline query that we wrote to extract the data from our database, and discuss a bit about the data massaging needed to render the chart.",
+      "mobile": {
+        "descriptions": [
+          "We use a variety of charts in one of our products (check out https://snowpal.com), and after assessing a number of Charting Libraries, we narrowed down on amCharts for a few different reasons. In this course, we'll take a brief look at one of the charts we love, Mind Maps. Or, as amCharts calls it, Force Directed Charts. We'll look at the JSON Data Structure required by the chart, a Mongo Aggregate Pipeline query that we wrote to extract the data from our database, and discuss a bit about the data massaging needed to render the chart.",
+          "If you want to display hierarchical data as a series of bubbles that are linked, a Mind Map is one of the best ways to go about it. amCharts offers a Force Directed Chart that is essentially a Mind Map."
+        ],
+        "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-chart.jpg"
+      },
+      "price": 4.99,
+      "revenueCat": {
+        "playStoreProductID": "implement_charts",
+        "appStoreProductID": "implement_charts"
+      },
+      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/charts.jpg",
+      "previewUrl": "https://player.vimeo.com/video/837011343",
+      "pageUrl": "https://getsnowpal.com/#9-implement-mind-map-chart-amcharts",
+      "lastModified": "2023-07-01",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/837011370?h=ae81af1409"
+        }
+      ],
+      "labels": [
+        "javascript",
+        "charts",
+        "amcharts"
+      ],
+      "tags": [
+        "amcharts",
+        "mindmap",
+        "mongodb"
+      ]
+    },
+    {
+      "id": "DEV125",
+      "name": "Securing Microservices in an API Gateway",
+      "title": "We have several microservices, and while each of them serves a unique purpose, they do have a few things in common. Security, is one of them. Therefore, we have microservices that exclusively deal with Security, and we'll take a look at one of them (Length: 32 minutes).",
+      "description": "At Snowpal, we have several microservices, and while each of them serves a unique purpose, they do have a few things in common. Security, is one of them. Therefore, we have microservices that exclusively deal with Security, and we'll take a look at one of them. At the end of this 20-ish minute course, the expectation is that you get a good sense of how a Microservices Security Architecture works. Whether you are breaking a monolith into a set of microservices, or are building a brand new microservice, this course should help you understand how Security Integration could work in those contexts.",
+      "mobile": {
+        "descriptions": [
+          "At Snowpal, we have several microservices, and while each of them serves a unique purpose, they do have a few things in common. Security, is one of them. Therefore, we have microservices that exclusively deal with Security, and we'll take a look at one of them. At the end of this 20-ish minute course, the expectation is that you get a good sense of how a Microservices Security Architecture works. Whether you are breaking a monolith into a set of microservices, or are building a brand new microservice, this course should help you understand how Security Integration could work in those contexts.",
+          "We have several microservices, and while each of them serves a unique purpose, they do have a few things in common. Security, is one of them. Therefore, we have microservices that exclusively deal with Security, and we'll take a look at one of them."
+        ],
+        "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-microservices.jpg"
+      },
+      "price": 5.99,
+      "revenueCat": {
+        "playStoreProductID": "securing_microservices",
+        "appStoreProductID": "securing_microservices"
+      },
+      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/security.jpg",
+      "previewUrl": "https://player.vimeo.com/video/838168971",
+      "pageUrl": "https://getsnowpal.com/#10-secure-microservices-in-api-gateway",
+      "lastModified": "2023-07-01",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/838168890?h=d469e5fcda"
+        }
+      ],
+      "labels": [
+        "aws",
+        "security",
+        "microservices"
+      ],
+      "tags": [
+        "aws",
+        "apigateway",
+        "security",
+        "microservices"
+      ]
+    },
+    {
+      "id": "DEV130",
+      "name": "Implementing Web Services in Golang",
+      "title": "Let's take a quick look at implementing REST endpoints in Golang using Gin Framework. We'll go over routes, services, models and make some code changes to see how they take effect (Length: 28 minutes).",
+      "description": "Let's take a quick look at implementing REST endpoints in Golang. We'll go over routes, services, models and make some code changes to see how they take effect. At the end of this 20-minute course, you should be able to start creating Web Services in Go. We'll be using Gin Framework for implementing these endpoints.",
+      "mobile": {
+        "descriptions": [
+          "Let's take a quick look at implementing REST endpoints in Golang. We'll go over routes, services, models and make some code changes to see how they take effect. At the end of this 20-minute course, you should be able to start creating Web Services in Go. We'll be using Gin Framework for implementing these endpoints.",
+          "Let's take a quick look at implementing REST endpoints in Golang using Gin Framework. We'll go over routes, services, models and make some code changes to see how they take effect."
+        ],
+        "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-go.jpg"
+      },
+      "price": 5.49,
+      "revenueCat": {
+        "playStoreProductID": "implementing_web_services_in_go",
+        "appStoreProductID": "implementing_web_services_in_go"
+      },
+      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/go.jpg",
+      "previewUrl": "https://player.vimeo.com/video/838168872",
+      "pageUrl": "https://getsnowpal.com/#11-implementing-web-services-in-golang",
+      "lastModified": "2023-07-01",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/838168808?h=0b11e02ab6"
+        }
+      ],
+      "labels": [
+        "golang",
+        "rest",
+        "api"
+      ],
+      "tags": [
+        "go",
+        "rest",
+        "api",
+        "mongo",
+        "gin"
+      ]
+    },
+    {
+      "id": "DEV135",
+      "name": "Implementing Web Services in Ruby",
+      "title": "Let's take a quick look at implementing REST endpoints in Ruby. We'll go over routes, services, models and make some code changes to see how they take effect (Length: 22 minutes).",
+      "description": "Let's take a quick look at implementing REST endpoints in Ruby. We'll go over routes, services, models and make some code changes to see how they take effect. At the end of this 20-minute course, you should be able to start creating Web Services in Ruby. We'll pick one of the Ruby Frameworks we have a preference towards, but the learning should be agnostic to the framework.",
+      "mobile": {
+        "descriptions": [
+          "Let's take a quick look at implementing REST endpoints in Ruby. We'll go over routes, services, models and make some code changes to see how they take effect. At the end of this 20-minute course, you should be able to start creating Web Services in Ruby. We'll pick one of the Ruby Frameworks we have a preference towards, but the learning should be agnostic to the framework.",
+          "Let's take a quick look at implementing REST endpoints in Ruby. We'll go over routes, services, models and make some code changes to see how they take effect."
+        ],
+        "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-ruby.jpg"
+      },
+      "price": 4.99,
+      "revenueCat": {
+        "playStoreProductID": "implementing_web_services_in_ruby",
+        "appStoreProductID": "implementing_web_services_in_ruby"
+      },
+      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/ruby.jpg",
+      "previewUrl": "https://player.vimeo.com/video/838168792",
+      "pageUrl": "https://getsnowpal.com/#12-implement-web-services-in-ruby",
+      "lastModified": "2023-07-01",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/838168717?h=32709b9881"
+        }
+      ],
+      "labels": [
+        "ruby",
+        "rest",
+        "api"
+      ],
+      "tags": [
+        "ruby",
+        "rest",
+        "api",
+        "mongo"
+      ]
+    },
+    {
+      "id": "DEV140",
+      "name": "Update: Firebase Cloud Messaging",
+      "title": "Update your apps to reflect the latest Firebase Cloud Messaging APIs and SDKs (Length: 19 minutes).",
+      "description": "If you are using Google Firebase Cloud Messaging APIs and SDKs, you may have received an email recently asking you to update your apps to the latest versions of those APIs & SDKs. Google gives you a window of time before which you need to do this but it's better to take care of things like this sooner than later. There's at least 3 (maybe, 4) things you need to do, and in this course, we'll go over each of those steps with examples so it is easy enough for you to map it to your systems, and make the corresponding changes.",
+      "mobile": {
+        "descriptions": [
+          "If you are using Google Firebase Cloud Messaging APIs and SDKs, you may have received an email recently asking you to update your apps to the latest versions of those APIs & SDKs. Google gives you a window of time before which you need to do this but it's better to take care of things like this sooner than later. There's at least 3 (maybe, 4) things you need to do, and in this course, we'll go over each of those steps with examples so it is easy enough for you to map it to your systems, and make the corresponding changes.",
+          "Update your apps to reflect the latest Firebase Cloud Messaging APIs and SDKs."
+        ],
+        "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-firebase.jpg"
+      },
+      "price": 2.99,
+      "revenueCat": {
+        "playStoreProductID": "update_firebase_cloud_messaging",
+        "appStoreProductID": "update_firebase_cloud_messaging"
+      },
+      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/firebase.jpg",
+      "previewUrl": "https://player.vimeo.com/video/838535641",
+      "pageUrl": "https://getsnowpal.com/#13-firebase-cloud-messaging-update",
+      "lastModified": "2023-07-01",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/838535574?h=5b4da6e140"
+        }
+      ],
+      "labels": [
+        "firebase",
+        "messaging",
+        "api",
+        "sdk"
+      ],
+      "tags": [
+        "google",
+        "fcm",
+        "firebase",
+        "cloud",
+        "messaging"
+      ]
+    },
+    {
+      "id": "DEV145",
+      "name": "Flutter App: Class Hierarchy (With A Working Example)",
+      "title": "Let's take a (fairly big) feature and understand what the class hierarchy looks like (Length: 31 minutes).",
+      "description": "The Snowpal Project Management App supports a Checklists feature that allows you to create any number of checklists, where you can add one or more checklist items. It has a number of actions associated with it, and is a pretty good example to take to help explain the Widget Class hierarchy. The idea, by the end of this course, is for you to have a good sense of what it takes to break a new feature requirement down into a class structure.",
+      "mobile": {
+        "descriptions": [
+          "The Snowpal Project Management App supports a Checklists feature that allows you to create any number of checklists, where you can add one or more checklist items. It has a number of actions associated with it, and is a pretty good example to take to help explain the Widget Class hierarchy. The idea, by the end of this course, is for you to have a good sense of what it takes to break a new feature requirement down into a class structure.",
+          "Let's take a (fairly big) feature and understand what the class hierarchy looks like."
+        ],
+        "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-hierarchy.jpg"
+      },
+      "price": 4.49,
+      "revenueCat": {
+        "playStoreProductID": "flutter_app_class_hierarchy",
+        "appStoreProductID": "flutter_app_class_hierarchy"
+      },
+      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/hierarchy.jpg",
+      "previewUrl": "https://player.vimeo.com/video/841019544",
+      "pageUrl": "https://getsnowpal.com/#14-flutter-app-class-hierarchy",
+      "lastModified": "2023-07-01",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/841019427?h=d3b3f9d8f3"
+        }
+      ],
+      "labels": [
+        "flutter",
+        "dart",
+        "class",
+        "hierarchy"
+      ],
+      "tags": [
+        "flutter",
+        "dart",
+        "design"
+      ]
+    },
+    {
+      "id": "DSG105",
+      "name": "Vimeo + Canva: Add Edited Video to Showcase",
+      "title": "What does it take to publish an edited video to a showcase on Vimeo? (Length: 36 minutes)",
+      "description": "If you create video content regularly, there's a good chance you host it somewhere (or happen to be looking for a good place to host them). At Snowpal, we use videos for a variety of purposes and one of them relates to Snowpal Education where we create and publish courses for purchase (such as this one). We explored a few different ways to host these videos, and arrived at an approach that works best for us. In this course, we will go over that approach and walk you through OS X Final Cut Pro, Canva, Vimeo and DNSimple. We are confident that this will answer a few questions for you.",
+      "mobile": {
+        "descriptions": [
+          "If you create video content regularly, there's a good chance you host it somewhere (or happen to be looking for a good place to host them). At Snowpal, we use videos for a variety of purposes and one of them relates to Snowpal Education where we create and publish courses for purchase (such as this one). We explored a few different ways to host these videos, and arrived at an approach that works best for us. In this course, we will go over that approach and walk you through OS X Final Cut Pro, Canva, Vimeo and DNSimple. We are confident that this will answer a few questions for you.",
+          "What does it take to publish an edited video to a showcase on Vimeo?"
+        ],
+        "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-vimeo.jpg"
+      },
+      "price": 5.99,
+      "revenueCat": {
+        "playStoreProductID": "add_edited_video_to_showcase",
+        "appStoreProductID": "add_edited_video_to_showcase"
+      },
+      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/vimeo.jpg",
+      "previewUrl": "https://player.vimeo.com/video/841045981",
+      "pageUrl": "https://getsnowpal.com/#15-vimeo-showcase-publish-video-website",
+      "lastModified": "2023-07-01",
+      "chapters": [
+        {
+          "title": "Chapter 1",
+          "description": "Edit a video on Final Cut Pro, create a new graphic on Canva, & upload it to Vimeo.",
+          "url": "https://player.vimeo.com/video/841045988?h=108334cee5"
+        },
+        {
+          "title": "Chapter 2",
+          "description": "Add record on DNS Provider, create showcase on Vimeo, and publish it.",
+          "url": "https://player.vimeo.com/video/841045951?h=bc57f103c4"
+        }
+      ],
+      "labels": [
+        "canva",
+        "vimeo",
+        "video",
+        "editing"
+      ],
+      "tags": [
+        "vimeo",
+        "canva",
+        "final cut pro",
+        "dnsimple"
+      ]
+    },
+    {
+      "id": "DEV150",
+      "name": "Flutter App: Directory Structure",
+      "title": "One of the first things you want to get out of your way when building a new App is the Directory Structure (Length: 40 minutes).",
+      "description": "Some frameworks dictate the directory structure to a large extent (hint: Rails!) but there are plenty others that give you all the leeway to structure it the way it works best for you. Flutter is one of them. While the flexibility is unquestionably desirable, it can (and does) act as a double edged sword. It is imperative that you get the structure (right) so it is intuitive to your team members as your team grows. In this course, we'll look at a Production Flutter App (our own Snowpal app) and review the directory structure that we arrived at (after a few iterations).",
+      "mobile": {
+        "descriptions": [
+          "Some frameworks dictate the directory structure to a large extent (hint: Rails!) but there are plenty others that give you all the leeway to structure it the way it works best for you. Flutter is one of them. While the flexibility is unquestionably desirable, it can (and does) act as a double edged sword. It is imperative that you get the structure (right) so it is intuitive to your team members as your team grows. In this course, we'll look at a Production Flutter App (our own Snowpal app) and review the directory structure that we arrived at (after a few iterations).",
+          "One of the first things you want to get out of your way when building a new App is the Directory Structure."
+        ],
+        "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-directory.jpg"
+      },
+      "price": 4.49,
+      "revenueCat": {
+        "playStoreProductID": "flutter_app_directory_structure",
+        "appStoreProductID": "flutter_app_directory_structure"
+      },
+      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/directory.jpg",
+      "previewUrl": "https://player.vimeo.com/video/841003496",
+      "pageUrl": "https://getsnowpal.com/#16-flutter-app-directory-structure",
+      "lastModified": "2023-07-01",
+      "chapters": [
+        {
+          "title": "Chapter 1",
+          "description": "Define a directory structure for a Flutter App.",
+          "url": "https://player.vimeo.com/video/841003837?h=c8b4da7443"
+        },
+        {
+          "title": "Chapter 2",
+          "description": "Review every directory in Snowpal's Mobile App in some detail.",
+          "url": "https://player.vimeo.com/video/841003578?h=6e58c84f3f"
+        }
+      ],
+      "labels": [
+        "flutter",
+        "mobile",
+        "frameworks"
+      ],
+      "tags": [
+        "flutter",
+        "mobile",
+        "web",
+        "design"
+      ]
+    },
+    {
+      "id": "ARC100",
+      "name": "Architect a Web Application",
+      "title": "There's many ways to architect a Web Application. Let's look at one of those ways (Length: 34 minutes).",
+      "description": "There's no one way to architect any application. With that said, some ways tend to work a tad better than others. In addition, the architecture of any application is bound to continually change as user base grows, as requirements change, as SLAs become tighter, as organizational structures change, and more. So, while it is important to get the architecture right to begin with, what's even more important is to ensure that it is resilient to change, is extensible, is flexible and long story short, stands the test of time. In this course, we'll look at one such architecture.",
+      "mobile": {
+        "descriptions": [
+          "There's no one way to architect any application. With that said, some ways tend to work a tad better than others. In addition, the architecture of any application is bound to continually change as user base grows, as requirements change, as SLAs become tighter, as organizational structures change, and more. So, while it is important to get the architecture right to begin with, what's even more important is to ensure that it is resilient to change, is extensible, is flexible and long story short, stands the test of time. In this course, we'll look at one such architecture.",
+          "There's many ways to architect a Web Application. Let's look at one of those ways."
+        ],
+        "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-architect.jpg"
+      },
+      "price": 4.99,
+      "revenueCat": {
+        "playStoreProductID": "architect_web_app",
+        "appStoreProductID": "architect_web_app"
+      },
+      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/architecture.jpg",
+      "previewUrl": "https://player.vimeo.com/video/841743772",
+      "pageUrl": "https://getsnowpal.com/#17-architect-a-web-application",
+      "lastModified": "2023-07-01",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/841743824?h=c4b82a5122"
+        }
+      ],
+      "labels": [
+        "javascript",
+        "application",
+        "web",
+        "architecture"
+      ],
+      "tags": [
+        "web",
+        "application",
+        "backbone",
+        "css"
+      ]
+    },
+    {
+      "id": "DEV155",
+      "name": "Integrate Kanban in Web Application",
+      "title": "It's likely you've used Kanban several times but may not have implemented one. So, this course should help (Length: 35 minutes).",
+      "description": "Kanban is an immensely popular way to schedule your activities. We'll take a look at implementing one. Our Web Application supports multiple rendering modes, one of which is a Kanban mode. There's a number of things you can do when you are in Kanban mode, and all of it is functionality we wired (read: handcoded) into a Kanban component that we integrated. Essentially, we started off with integrating a Kanban component (and yes, we never try to reinvent the wheel!), and added all the necessary functionality we needed into it. In this course, we'll show you some of those.",
+      "mobile": {
+        "descriptions": [
+          "Kanban is an immensely popular way to schedule your activities. We'll take a look at implementing one. Our Web Application supports multiple rendering modes, one of which is a Kanban mode. There's a number of things you can do when you are in Kanban mode, and all of it is functionality we wired (read: handcoded) into a Kanban component that we integrated. Essentially, we started off with integrating a Kanban component (and yes, we never try to reinvent the wheel!), and added all the necessary functionality we needed into it. In this course, we'll show you some of those.",
+          "It's likely you've used Kanban several times but may not have implemented one. So, this course should help."
+        ],
+        "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-kanban.jpg"
+      },
+      "price": 5.49,
+      "revenueCat": {
+        "playStoreProductID": "integrate_kanban_in_web_app",
+        "appStoreProductID": "integrate_kanban_in_web_app"
+      },
+      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/kanban.jpg",
+      "previewUrl": "https://player.vimeo.com/video/842064037",
+      "pageUrl": "https://getsnowpal.com/#18-integrate-kanban-in-web-app",
+      "lastModified": "2023-07-01",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/842064044?h=25e79190c0"
+        }
+      ],
+      "labels": [
+        "javascript",
+        "kanban",
+        "integration",
+        "web"
+      ],
+      "tags": [
+        "webix",
+        "kanban",
+        "javascript",
+        "css"
+      ]
+    },
+    {
+      "id": "DSG110",
+      "name": "Designing UI & UX for a New Feature on a Web App",
+      "title": "Let's take a look at a simple, new feature we are implementing on Snowpal Web App, and understand the development process (Length: 30 minutes).",
+      "description": "We implement new features (and enhancements) on a daily basis at Snowpal, and while how we approach each of those features from a UI/UX standpoint really depends, and is driven primarily by the feature and its complexities, there are many aspects of our approach that are generic to almost all features and enhancements. In this course, we'll take a look at a simple feature to help understand what the process looks like. We'll start with Requirements, discuss User Experience (UX), immediately followed by User Interface (UI). Note that we'll be focusing on a Web Application but a lot of what we learn would be just as applicable to Mobile Apps as well.",
+      "mobile": {
+        "descriptions": [
+          "We implement new features (and enhancements) on a daily basis at Snowpal, and while how we approach each of those features from a UI/UX standpoint really depends, and is driven primarily by the feature and its complexities, there are many aspects of our approach that are generic to almost all features and enhancements. In this course, we'll take a look at a simple feature to help understand what the process looks like. We'll start with Requirements, discuss User Experience (UX), immediately followed by User Interface (UI). Note that we'll be focusing on a Web Application but a lot of what we learn would be just as applicable to Mobile Apps as well.",
+          "Let's take a look at a simple, new feature we are implementing on Snowpal Web App, and understand the development process."
+        ],
+        "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-ui.jpg"
+      },
+      "price": 4.99,
+      "revenueCat": {
+        "playStoreProductID": "designing_new_feature_on_web_app",
+        "appStoreProductID": "designing_new_feature_on_web_app"
+      },
+      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/ui.jpg",
+      "previewUrl": "https://player.vimeo.com/video/844067579",
+      "pageUrl": "https://getsnowpal.com/#19-designing-ui-ux-for-a-web-feature",
+      "lastModified": "2023-07-13",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/844067443?h=6bb7ad9474"
+        }
+      ],
+      "labels": [
+        "user interface",
+        "design",
+        "feature",
+        "web"
+      ],
+      "tags": [
+        "webapp",
+        "design",
+        "ui",
+        "ux"
+      ]
+    },
+    {
+      "id": "AWS100",
+      "name": "Creating Products on AWS Marketplace",
+      "title": "If you are selling digital products, AWS Marketplace is one of those places you would be better served listing your products on (Length: 43 minutes).",
+      "description": "AWS Marketplace offers multiple categories for you to list your products under, one of which is SaaS. If you are looking to sell SaaS products, and are an AWS customer, I highly recommend that you list your products in the marketplace as it will provide plenty of visibility for you. In this course, I'll walk you through the process of listing a SaaS product on AWS Marketplace as it can be a tad overwhelming at times. We launched a number of API products recently, and I will be sharing that experience with you in this course. The aim is that by the end of this course, you'll have a good sense of what it takes to list your products on the marketplace.",
+      "mobile": {
+        "descriptions": [
+          "AWS Marketplace offers multiple categories for you to list your products under, one of which is SaaS. If you are looking to sell SaaS products, and are an AWS customer, I highly recommend that you list your products in the marketplace as it will provide plenty of visibility for you. In this course, I'll walk you through the process of listing a SaaS product on AWS Marketplace as it can be a tad overwhelming at times. We launched a number of API products recently, and I will be sharing that experience with you in this course. The aim is that by the end of this course, you'll have a good sense of what it takes to list your products on the marketplace.",
+          "If you are selling digital products, AWS Marketplace is one of those places you would be better served listing your products on."
+        ],
+        "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-marketplace.jpg"
+      },
+      "price": 4.99,
+      "revenueCat": {
+        "playStoreProductID": "creating_products_on_aws_marketplace",
+        "appStoreProductID": "creating_products_on_aws_marketplace"
+      },
+      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/marketplace.jpg",
+      "previewUrl": "https://player.vimeo.com/video/844067819",
+      "pageUrl": "https://getsnowpal.com/#20-creating-products-on-aws-marketplace",
+      "lastModified": "2023-07-13",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/844067691?h=02fa510b6d"
+        }
+      ],
+      "labels": [
+        "aws",
+        "marketplace",
+        "digital product",
+        "selling"
+      ],
+      "tags": [
+        "aws",
+        "marketplace",
+        "saas",
+        "professionalservices"
+      ]
+    },
+    {
+      "id": "DEV160",
+      "name": "Authenticating Subscribers using API Key & Product Code",
+      "title": "You will need an API Key & Product Code to authenticate your API Requests. Let's look at the Why & the How (Length: 28 minutes).",
+      "description": "You will need to provide an API Key for you to authenticate your API Requests. There's many ways to generate this key and share it with your subscribers, and in this course, we'll look at one of those ways. In addition, you will likely also need to publish an API code to your subscribers if you have listed more than 1 SaaS Product (say, on the AWS Marketplace, or one of the many API Hubs). I'll walk you through our high level architecture so you can leave this course with a fair understanding of what it took us to support these 2 attributes (API Key & Product Code) in our implementation.",
+      "mobile": {
+        "descriptions": [
+          "You will need to provide an API Key for you to authenticate your API Requests. There's many ways to generate this key and share it with your subscribers, and in this course, we'll look at one of those ways. In addition, you will likely also need to publish an API code to your subscribers if you have listed more than 1 SaaS Product (say, on the AWS Marketplace, or one of the many API Hubs). I'll walk you through our high level architecture so you can leave this course with a fair understanding of what it took us to support these 2 attributes (API Key & Product Code) in our implementation.",
+          "You will need an API Key & Product Code to authenticate your API Requests. Let's look at the Why & the How."
+        ],
+        "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-auth.jpg"
+      },
+      "price": 4.99,
+      "revenueCat": {
+        "playStoreProductID": "aws_authenticating_subscribers",
+        "appStoreProductID": "aws_authenticating_subscribers"
+      },
+      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/authentication.jpg",
+      "previewUrl": "https://player.vimeo.com/video/844067674",
+      "pageUrl": "https://getsnowpal.com/#21-authenticating-subscribers-using-api-key-product-code",
+      "lastModified": "2023-07-01",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/844067585?h=5bd5455102"
+        }
+      ],
+      "labels": [
+        "aws",
+        "authentication",
+        "api key",
+        "product code"
+      ],
+      "tags": [
+        "apikey",
+        "productcode",
+        "apimanagement"
+      ]
+    },
+    {
+      "id": "DEV165",
+      "name": "JSON Data Modeling: A Simple Example",
+      "title": "JSON is one of the most popular and commonly used formats for data exchange. Let's understand how it works (Length: 31 minutes).",
+      "description": "You can represent hierarchical data in many ways with one of the most popular formats being JSON. If you are a UI developer, you are likely consuming JSON Data, and if you are a server side engineer, you are providing JSON Data (via REST or Graph APIs, for instance). It is imperative that your JSON Schema looks accurate and is a true structural representation of the problem you are setting out to solve. If it isn't, it's surely going to cause a bit of pain as your product's adoptability grows (think backward compatibility, refactoring, extensibility, and more such challenges). In this course, we will take a recent feature we implemented on our Web App, and design the actual JSON Data Model alongside exploring alternative structures.",
+      "mobile": {
+        "descriptions": [
+          "You can represent hierarchical data in many ways with one of the most popular formats being JSON. If you are a UI developer, you are likely consuming JSON Data, and if you are a server side engineer, you are providing JSON Data (via REST or Graph APIs, for instance). It is imperative that your JSON Schema looks accurate and is a true structural representation of the problem you are setting out to solve. If it isn't, it's surely going to cause a bit of pain as your product's adoptability grows (think backward compatibility, refactoring, extensibility, and more such challenges). In this course, we will take a recent feature we implemented on our Web App, and design the actual JSON Data Model alongside exploring alternative structures.",
+          "JSON is one of the most popular and commonly used formats for data exchange. Let's understand how it works."
+        ],
+        "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-json.jpg"
+      },
+      "price": 5.49,
+      "revenueCat": {
+        "playStoreProductID": "json_data_modeling",
+        "appStoreProductID": "json_data_modeling"
+      },
+      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/json.jpg",
+      "previewUrl": "https://player.vimeo.com/video/844407626",
+      "pageUrl": "https://getsnowpal.com/#22-json-data-modeling-a-simple-example",
+      "lastModified": "2023-07-01",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/844407521?h=e116eadc4c"
+        }
+      ],
+      "labels": [
+        "json",
+        "data",
+        "modeling"
+      ],
+      "tags": [
+        "json",
+        "datamodel",
+        "dataexchange"
+      ]
+    },
+    {
+      "id": "ARC105",
+      "name": "SQL Vs NoSQL: Which Way to Go?",
+      "title": "A lot us have a sense of the basic differences but it continues to remain a question that, for some reason, doesn't seem easy enough to answer. Let's give it a shot (Length: 66 minutes).",
+      "description": "SQL (or RDBMS) has been around for a long time now. NoSQL databases are relatively newer but they too have been around for what feels like an eon now! Despite that, every time a new App, a new Service, or a new System is designed, there continues to be a sense of uncertainty around which direction to go (at least, it seems that way). There's a few reasons for that, and there's no single correct answer. So, while it surely depends on a variety of factors, and there is no dearth of documentation online about the differences between the 2 types of database systems, I still think it is worth a short course on it. In this hour-long course, we'll take another look at the database options available today, and try to determine which ones would make the most sense, and when.",
+      "mobile": {
+        "descriptions": [
+          "SQL (or RDBMS) has been around for a long time now. NoSQL databases are relatively newer but they too have been around for what feels like an eon now! Despite that, every time a new App, a new Service, or a new System is designed, there continues to be a sense of uncertainty around which direction to go. There's more than a few reasons for that. Though there is no dearth of documentation about the differences between these database systems, it is still worth a short course on it. In this hour-long course, we'll take another look at the database options available today, and try to determine which ones would make the most sense, and when.",
+          "A lot us have a sense of the basic differences but it continues to remain a question that, for some reason, doesn't seem easy enough to answer. Let's give it a shot."
+        ],
+        "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-sql.jpg"
+      },
+      "price": 5.99,
+      "revenueCat": {
+        "playStoreProductID": "sql_vs_nosql",
+        "appStoreProductID": "sql_vs_nosql"
+      },
+      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/database.jpg",
+      "previewUrl": "https://player.vimeo.com/video/845059779",
+      "pageUrl": "https://getsnowpal.com/#23-sql-vs-nosql-which-way-to-go",
+      "lastModified": "2023-07-01",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/845059521?h=21489cbb02"
+        }
+      ],
+      "labels": [
+        "database",
+        "sql",
+        "nosql"
+      ],
+      "tags": [
+        "sql",
+        "nosql",
+        "mongodb",
+        "postgresql",
+        "cassandra"
+      ]
+    },
+    {
+      "id": "DEV170",
+      "name": "Flutter App: Implement Tabs",
+      "title": "While an app is bound to comprise many components, there are always a few components that are used a lot more frequently. Tabs happens to be one of them (Length: 18 minutes).",
+      "description": "Flutter as a Framework provides a rich set of components, thereby enabling you to focus on spending all your energies on your business requirements. So, even when you need to implement tabs, you have the choice of using the OOTB Flutter Tab Widget, or finding one that's a tad richer by going to (pub.dev). Snowpal's Mobile Apps are on the App and Play Stores, and while we've built a number of custom components, we refrain from doing it (or using a 3rd party plugin) unless we find significant value in doing so. As far as Tabs go, we are quite happy with what Flutter supports and all our tab implementations use the underlying Flutter Tab widgets. In this course, we'll look at one of our Tab Implementations where I'll walk you through our code so you get a sense of how tabs work in Flutter, and how you can easily leverage them.",
+      "mobile": {
+        "descriptions": [
+          "Flutter as a Framework provides a rich set of components thereby affording us the flexibility to spend all your energies on our specific business requirements. When you need to implement tabs for instance, you have the choice of using the OOTB Flutter Tab Widget, or finding one that's a tad richer by going to (pub.dev). As far as Tabs go, we are quite happy with what Flutter supports and all our tab implementations use the underlying Flutter Tab widgets. In this course, we'll look at one of our Tab Implementations where I'll walk you through our code so you get a sense of how tabs work in Flutter, and how you can easily leverage them.",
+          "While an app is bound to comprise many components, there are always a few components that are used a lot more frequently. Tabs happens to be one of them."
+        ],
+        "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-tabs.jpg"
+      },
+      "price": 4.49,
+      "revenueCat": {
+        "playStoreProductID": "flutter_app_implement_tabs",
+        "appStoreProductID": "flutter_app_implement_tabs"
+      },
+      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/tabs.jpg",
+      "previewUrl": "https://player.vimeo.com/video/845117047",
+      "pageUrl": "https://getsnowpal.com/#24-flutter-app-implement-tabs",
+      "lastModified": "2023-07-01",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/845117063?h=87029aaf7a"
+        }
+      ],
+      "labels": [
+        "flutter",
+        "components",
+        "tab",
+        "framework"
+      ],
+      "tags": [
+        "flutter",
+        "tab"
+      ]
+    },
+    {
+      "id": "DEV175",
+      "name": "Asynchronous Messaging with RabbitMQ",
+      "title": "A quick look at how a production implementation of Asynchronous messaging with RabbitMQ works. At Snowpal, we use RabbitMQ quite heavily (till it's all ported over to Kafka, that is!) (Length: 45 minutes).",
+      "description": "What you do not need to do real time, you should try not to do real time for a variety of reasons. In this course, we'll look at a specific implementation that uses RabbitMQ as a Message Broker to better understand the pros and cons of various alternatives, including but not limited to whether or not you need to use messaging at all to solve such a problem. We'll touch upon Kafka a tiny, tiny bit but keep our focus primarily to Messaging Architecture in general, and RabbitMQ as a broker in particular. By the end of this course, you should be in a position to tell when you need to use a Message Broker, which one you may want to use, and how you should go about using it. While what we'll look at is a Ruby Microservice implementation, the learning would be just as applicable to other brokers and other languages.",
+      "mobile": {
+        "descriptions": [
+          "What you do not need to do real time, you should try not to do real time for a variety of reasons. In this course, we'll look at a specific implementation that uses RabbitMQ as a Message Broker to better understand the pros and cons of various alternatives, including but not limited to whether or not you need to use messaging at all to solve such a problem. We'll keep our focus to Messaging Architecture in general, and RabbitMQ as a broker in particular. By the end of this course, you should be in a position to tell when you need to use a Message Broker, which one you may want to use, and how you should go about using it.",
+          "A quick look at how a production implementation of Asynchronous messaging with RabbitMQ works. At Snowpal, we use RabbitMQ quite heavily (till it's all ported over to Kafka, that is!)."
+        ],
+        "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-rabbitmq.jpg"
+      },
+      "price": 4.99,
+      "revenueCat": {
+        "playStoreProductID": "asynchronous_messaging_with_rabbitmq",
+        "appStoreProductID": "asynchronous_messaging_with_rabbitmq"
+      },
+      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/rabbitmq.jpg",
+      "previewUrl": "https://player.vimeo.com/video/845374431",
+      "pageUrl": "https://getsnowpal.com/#25-asynchronous-messaging-with-rabbitmq",
+      "lastModified": "2023-07-01",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/845374273?h=eabe48ff48"
+        }
+      ],
+      "labels": [
+        "messaging",
+        "rabbitmq",
+        "asynchronous"
+      ],
+      "tags": [
+        "rabbitmq",
+        "message",
+        "broker",
+        "kafka"
+      ]
+    },
+    {
+      "id": "ARC110",
+      "name": "Multi Tenant Architecture - Options",
+      "title": "A multi tenant architecture lets you serve many clients using a (single) instance of a software application. Do you ever wonder how your persistence layer should be architected in a multi tenant architecture? (Length: 50 minutes)",
+      "description": "We serve multiple clients via our Backend as a Service systems, and given that, multi tenancy is a core part of our architecture. While nothing is etched in stone and things are always subject to change, there are certain aspects of Software Architecture that, if you are not careful about, will be rather costly to make alterations to, and Multi Tenancy is definitely one of them. So, we explored several different options before arriving at the one we ended up implementing. When it comes to multi tenancy, there's at least 4 options available, and which one you should ideally go with depends on a variety of factors. In this course, we are going to take a deeper look at each of these 4 architectures and review their pros and cons. The objective is that by the end of this course, you will have a good understanding of multi tenancy, and therefore, will be in a slightly better position to evaluate your choices, and go with the one that makes the most sense for your organization.",
+      "mobile": {
+        "descriptions": [
+          "We serve multiple clients via our Backend as a Service systems, and given that, multi tenancy is a core part of our architecture. There are certain aspects of Software Architecture that tend to be rather costly to make alterations to, and Multi Tenancy is one of them. So, we explored several options before arriving at the one we ended up implementing. When it comes to multi tenancy, there's at least 4 options available, and which one you should ideally go with depends on a variety of factors. In this course, we are going to take a deeper look at each of these 4 architectures and review their pros and cons.",
+          "A multi tenant architecture lets you serve many clients using a (single) instance of a software application. Do you ever wonder how your persistence layer should be architected in a multi tenant architecture?"
+        ],
+        "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-multitenant.jpg"
+      },
+      "price": 6.49,
+      "revenueCat": {
+        "playStoreProductID": "multi_tenant_architecture_options",
+        "appStoreProductID": "multi_tenant_architecture_options"
+      },
+      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/multitenancy.jpg",
+      "previewUrl": "https://player.vimeo.com/video/845409183",
+      "pageUrl": "https://getsnowpal.com/#26-multi-tenant-architecture-options",
+      "lastModified": "2023-07-01",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/845408979?h=f58d7f2f4c"
+        }
+      ],
+      "labels": [
+        "architecture",
+        "multitenancy"
+      ],
+      "tags": [
+        "architecture",
+        "multitenancy",
+        "database"
+      ]
+    },
+    {
+      "id": "ARC115",
+      "name": "Serverless Applications: AWS SAM Specification",
+      "title": "Understanding SAM Templates is key to seamlessly maneuvering AWS Serverless Applications (Length: 48 minutes).",
+      "description": "Serverless Applications have been around a bit, and it is hard to see any ecosystem in a company where they do not play a part. There is a lot to Serverless Apps so what we will do in this course is focus on what it takes to build AWS Server Applications using SAM Templates. SAM Templates are an extension of AWS CloudFormation Templates but are a whole lot easier to work with (at least, once you get the hang of it).",
+      "mobile": {
+        "descriptions": [
+          "Serverless Applications have been around a bit, and it is hard to see any ecosystem in a company where they do not play a part. There is a lot to Serverless Apps so what we will do in this course is focus on what it takes to build AWS Server Applications using SAM Templates. SAM Templates are an extension of AWS CloudFormation Templates but are a whole lot easier to work with (at least, once you get the hang of it).",
+          "Understanding SAM Templates is key to seamlessly maneuvering AWS Serverless Applications."
+        ],
+        "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-serverless.jpg"
+      },
+      "price": 5.99,
+      "revenueCat": {
+        "playStoreProductID": "aws_sam_specification",
+        "appStoreProductID": "aws_sam_specification"
+      },
+      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/sam.jpg",
+      "previewUrl": "https://player.vimeo.com/video/848863345",
+      "pageUrl": "https://getsnowpal.com/#27-serverless-applications-aws-sam-specification",
+      "lastModified": "2023-07-26",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/848863375?h=def937d312"
+        }
+      ],
+      "labels": [
+        "aws",
+        "serverless",
+        "application"
+      ],
+      "tags": [
+        "aws",
+        "sam",
+        "serverless"
+      ]
+    },
+    {
+      "id": "DEV180",
+      "name": "Amazon DynamoDB: Introduction",
+      "title": "Amazon DynamoDB is a NoSQL database you want to familiarize yourself with, if you are an AWS user (Length: 48 minutes).",
+      "description": "If you work on Serverless Architectures, and are building Lambdas on AWS, it is highly likely you are already using DynamoDB, & if you are not, it is only a matter of time before you realize you really ought to. While there is no dearth of NoSQL databases, and despite the fact that AWS has plentiful support (to varying degrees) for a number of them, DynamoDB is a slightly unique database and it has a specific purpose when it comes to where it fits in & how well it does. Given that, it is certainly useful to understand it a bit (better).",
+      "mobile": {
+        "descriptions": [
+          "If you work on Serverless Architectures, and are building Lambdas on AWS, it is highly likely you are already using DynamoDB, & if you are not, it is only a matter of time before you realize you really ought to. While there is no dearth of NoSQL databases, and despite the fact that AWS has plentiful support (to varying degrees) for a number of them, DynamoDB is a slightly unique database and it has a specific purpose when it comes to where it fits in & how well it does. Given that, it is certainly useful to understand it a bit (better).",
+          "Amazon DynamoDB is a NoSQL database you want to familiarize yourself with, if you are an AWS user."
+        ],
+        "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-dynamodb.jpg"
+      },
+      "price": 5.99,
+      "revenueCat": {
+        "playStoreProductID": "dynamodb_intro",
+        "appStoreProductID": "dynamodb_intro"
+      },
+      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/dynamodb.jpg",
+      "previewUrl": "https://player.vimeo.com/video/852433946",
+      "pageUrl": "https://getsnowpal.com/#28-amazon-dynamodb-an-introduction",
+      "lastModified": "2023-08-08",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/852434082?h=7ccb092679"
+        }
+      ],
+      "labels": [
+        "aws",
+        "database",
+        "dynamodb",
+        "lambdas"
+      ],
+      "tags": [
+        "aws",
+        "database",
+        "nosql",
+        "serverless"
+      ]
+    },
+    {
+      "id": "DEV185",
+      "name": "LIVE Coding: Implement Notifications Feature",
+      "title": "Let us make some changes to an existing Ruby API, and do it LIVE (Length: 95 minutes).",
+      "description": "Let us implement a feature in this course. A real feature. As in, one that will be deployed to Production shortly, and be available on our Mobile Apps on the App and Play Stores. Here is what we will do. Add API support for a new type of notification so it is part of the Endpoint Response. Most importantly, we will do it together. You will see in real time how one could go about implementing a requirement from start to finish. You will get a feel of a few different tools & technologies (RubyMine IDE, MongoDB Client, REST API, and more).",
+      "mobile": {
+        "descriptions": [
+          "Let us implement a feature REAL TIME in this course. One that was deployed to Production recently, and is available on our Mobile Apps on App and Play Stores. Here is what we will do. Add API support for a new type of notification so it is part of the Endpoint Response. Most importantly, we will do it together. You will see in real time how one could go about implementing a requirement from start to finish. You will get a feel of a few different tools & technologies (RubyMine IDE, MongoDB Client, REST API, and more).",
+          "Let us make some changes to an existing Ruby API, and do it LIVE."
+        ],
+        "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-live.jpg"
+      },
+      "price": 8.99,
+      "revenueCat": {
+        "playStoreProductID": "implement_notifications_feature",
+        "appStoreProductID": "implement_notifications_feature"
+      },
+      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/notifications.jpg",
+      "previewUrl": "https://player.vimeo.com/video/855459392",
+      "pageUrl": "https://getsnowpal.com/#29-live-coding-implement-notifications-feature",
+      "lastModified": "2023-08-16",
+      "chapters": [
+        {
+          "title": "Chapter 1",
+          "description": "Introduction",
+          "url": "https://player.vimeo.com/video/855459804?h=46dc3a313d"
+        },
+        {
+          "title": "Chapter 2",
+          "description": "Implementation: Part 1",
+          "url": "https://player.vimeo.com/video/855464939?h=bb6b1a4ca8"
+        },
+        {
+          "title": "Chapter 3",
+          "description": "Implementation: Part 2",
+          "url": "https://player.vimeo.com/video/855461008?h=03a914325a"
+        },
+        {
+          "title": "Chapter 4",
+          "description": "Summary",
+          "url": "https://player.vimeo.com/video/855462972?h=1df30dc5e2"
+        }
+      ],
+      "labels": [
+        "ruby",
+        "live",
+        "implementation",
+        "notifications"
+      ],
+      "tags": [
+        "ruby",
+        "api",
+        "rest",
+        "notifications"
+      ]
+    },
+    {
+      "id": "DEV190",
+      "name": "Social Media Login (OAuth 2.0)",
+      "title": "Adding support for multiple social media sign ins is pretty much an implicit requirement these days (Length: 56 minutes).",
+      "description": "If you are building an app today, it is likely you support some form of Social Media login. Or, if you are like us, you want to support all the most popular alternatives available: Facebook, Google, Apple and Microsoft. In addition, you may need to support sign in using one of these Social Media account both on Web and Mobile. If so, this course should help you. We will walk you through each of the 4 social media sign ins we support on Snowpal, both on Web and Mobile. This way, when the time comes to integrate one or more of these authentication mechanisms into your systems, you will not have to scramble for help.",
+      "mobile": {
+        "descriptions": [
+          "If you are building an app today, it is likely you support some form of Social Media login. Or, if you are like us, you want to support all the most popular alternatives available: Facebook, Google, Apple and Microsoft. In addition, you may need to support sign in using one of these Social Media account both on Web and Mobile. If so, this course should help you. We will walk you through each of the 4 social media sign ins we support on Snowpal, both on Web and Mobile. This way, when the time comes to integrate one or more of these authentication mechanisms into your systems, you will not have to scramble for help.",
+          "Adding support for multiple social media sign ins is pretty much an implicit requirement these days."
+        ],
+        "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-social.jpg"
+      },
+      "price": 6.99,
+      "revenueCat": {
+        "playStoreProductID": "social_media_login",
+        "appStoreProductID": "social_media_login"
+      },
+      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/social-media.jpg",
+      "previewUrl": "https://player.vimeo.com/video/871591096",
+      "pageUrl": "https://getsnowpal.com/#30-social-media-login-oauth-2-0",
+      "lastModified": "2023-10-05",
+      "chapters": [
+        {
+          "title": "Chapter 1",
+          "description": "Introduction",
+          "url": "https://player.vimeo.com/video/871630400?h=9f9f1ba2ac"
+        },
+        {
+          "title": "Chapter 2",
+          "description": "Implementation",
+          "url": "https://player.vimeo.com/video/871640189?h=c0848cffb3"
+        }
+      ],
+      "labels": [
+        "oauth2",
+        "facebook",
+        "google",
+        "azure",
+        "apple"
+      ],
+      "tags": [
+        "oauth2",
+        "facebook",
+        "google",
+        "azure",
+        "apple"
+      ]
+    },
+    {
+      "id": "DEV195",
+      "name": "RevenueCat: Pricing Integration",
+      "title": "Pricing is not a feature your customers are necessarily looking forward to! But, you still need it (Length: 46 minutes).",
+      "description": "Can you implement pricing on mobile without using any 3rd party (intermediary) plugins? Absolutely. Should you do that (though)? Maybe. Maybe not. Let us take a look at why RevenueCat (or something like it) would make a meaningful difference to development. We explored a few different options before choosing RevenueCat, and we are happy with that decision (at least, so far!).",
+      "mobile": {
+        "descriptions": [
+          "Can you implement pricing on mobile without using any 3rd party (intermediary) plugins? Absolutely. Should you do that (though)? Maybe. Maybe not. Let us take a look at why RevenueCat (or something like it) would make a meaningful difference to development. We explored a few different options before choosing RevenueCat, and we are happy with that decision (at least, so far!).",
+          "Pricing is not a feature your customers are necessarily looking forward to! But, you still need it."
+        ],
+        "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-pricing.jpg"
+      },
+      "price": 6.99,
+      "revenueCat": {
+        "playStoreProductID": "revenuecat_pricing_integration",
+        "appStoreProductID": "revenuecat_pricing_integration"
+      },
+      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/pricing.jpg",
+      "previewUrl": "https://player.vimeo.com/video/871619357",
+      "pageUrl": "https://getsnowpal.com/#31-revenuecat-pricing-integration",
+      "lastModified": "2023-10-05",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/871618503?h=fd95dfcb4c"
+        }
+      ],
+      "labels": [
+        "pricing",
+        "revenuecat"
+      ],
+      "tags": [
+        "pricing",
+        "revenuecat"
+      ]
+    },
+    {
+      "id": "DEV200",
+      "name": "Dependencies in Development Environment",
+      "title": "If you know the roads, driving becomes easier. It is no different when it comes to dev environments & dependencies (Length: 40 minutes).",
+      "description": "What are your dependencies in your dev environment, and how easy is it to switch your dependencies? Most of us love to do a lot of our work locally for productivity reasons but there are times you need to connect to other systems even in your lowest environment (your developer machine). Let us take a real world example and see how that works in a product company.",
+      "mobile": {
+        "descriptions": [
+          "What are your dependencies in your dev environment, and how easy is it to switch your dependencies? Most of us love to do a lot of our work locally for productivity reasons but there are times you need to connect to other systems even in your lowest environment (your developer machine). Let us take a real world example and see how that works in a product company.",
+          "If you know the roads, driving becomes easier. It is no different when it comes to dev environments & dependencies."
+        ],
+        "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-dev-environment.jpg"
+      },
+      "price": 4.99,
+      "revenueCat": {
+        "playStoreProductID": "dependencies_in_dev_env",
+        "appStoreProductID": "dependencies_in_dev_env"
+      },
+      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/dev-environment.jpg",
+      "previewUrl": "https://player.vimeo.com/video/871620232",
+      "pageUrl": "https://getsnowpal.com/#32-dependencies-in-development-environment",
+      "lastModified": "2023-10-05",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/871619397?h=8fc82e36d7"
+        }
+      ],
+      "labels": [
+        "environment",
+        "dependencies",
+        "localhost"
+      ],
+      "tags": [
+        "environment",
+        "dependencies",
+        "localhost"
+      ]
+    },
+    {
+      "id": "DEV205",
+      "name": "Interfaces in Go (Golang)",
+      "title": "What are interfaces in Go? And how are they different from interfaces in other languages? (Length: 55 minutes)",
+      "description": "According to Golang documentation, an interface type is defined as a set of method signatures. Fair enough, and that sounds like it is quite similar to how interfaces work in other languages. While there certainly are similarities, there are also nuances that you would be better served understanding before leveraging this construct. In this course, we will take a simple example (a manufactured one, sure) to understand how interfaces work in Go, and do a bit of LIVE coding. The idea is that by the end of this course, you will have a good sense of how interfaces work, and when they may be a good fit for the problem you are trying to solve.",
+      "mobile": {
+        "descriptions": [
+          "According to Golang documentation, an interface type is defined as a set of method signatures. Fair enough, and that sounds like it is quite similar to how interfaces work in other languages. While there certainly are similarities, there are also nuances that you would be better served understanding before leveraging this construct. In this course, we will take a simple example (a manufactured one, sure) to understand how interfaces work in Go, and do a bit of LIVE coding. The idea is that by the end of this course, you will have a good sense of how interfaces work, and when they may be a good fit for the problem you are trying to solve.",
+          "What are interfaces in Go? And how are they different from interfaces in other languages?"
+        ],
+        "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-interface.jpg"
+      },
+      "price": 5.49,
+      "revenueCat": {
+        "playStoreProductID": "interfaces_in_go",
+        "appStoreProductID": "interfaces_in_go"
+      },
+      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/interface.jpg",
+      "previewUrl": "https://player.vimeo.com/video/882682467",
+      "pageUrl": "https://getsnowpal.com/#33-interfaces-in-go-golang",
+      "lastModified": "2023-11-09",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/882681322?h=ac9f95750e"
+        }
+      ],
+      "labels": [
+        "development",
+        "golang",
+        "interfaces"
+      ],
+      "tags": [
+        "development",
+        "golang",
+        "interfaces"
+      ]
+    },
+    {
+      "id": "DEV210",
+      "name": "Develop AWS Lambda Applications locally",
+      "title": "Too often, I see good developers wait on deployments that take minutes to test their changes. There are better ways. (Length: 32 minutes)",
+      "description": "If you are thinking about building Serverless Functions, there is a high chance you are thinking about AWS Lambda. They have been around a long time. They are fairly easy to build but the one thing I have seen developers do repeatedly is rely on a deployment to the Cloud before they test their changes. There is more optimal ways. Let us discuss one of them.",
+      "mobile": {
+        "descriptions": [
+          "If you are thinking about building Serverless Functions, there is a high chance you are thinking about AWS Lambda. They have been around a long time. They are fairly easy to build but the one thing I have seen developers do repeatedly is rely on a deployment to the Cloud before they test their changes. There is more optimal ways. Let us discuss one of them.",
+          "Too often, I see good developers wait on deployments that take minutes to test their changes. There are better ways."
+        ],
+        "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-lambda.jpg"
+      },
+      "price": 4.99,
+      "revenueCat": {
+        "playStoreProductID": "develop_aws_lambda_apps_locally",
+        "appStoreProductID": "develop_aws_lambda_apps_locally"
+      },
+      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/lambda.jpg",
+      "previewUrl": "https://player.vimeo.com/video/883454220",
+      "pageUrl": "https://getsnowpal.com/#34-develop-aws-lambda-applications-locally",
+      "lastModified": "2023-11-14",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/884518393?h=08b74df5da"
+        }
+      ],
+      "labels": [
+        "aws",
+        "lambda",
+        "deployment"
+      ],
+      "tags": [
+        "aws",
+        "lambda",
+        "deployment"
+      ]
+    },
+    {
+      "id": "DEV215",
+      "name": "Writing scripts to understand REST APIs",
+      "title": "Developers like to review API documentation slightly differently. They prefer to use scripts. Let us write one then (in Golang). (Length: 34 minutes)",
+      "description": "If you are building integrations, or leverage other API Providers to reduce your Time to Market, you are bound to consume a fair number of APIs. When you do that, how quickly your team wraps their head around a brand new API is going to make all the difference between going LIVE in the next sprint vs one down the road. We use a simple tool that we created for one part of this purpose. Let us explore it.",
+      "mobile": {
+        "descriptions": [
+          "If you are building integrations, or leverage other API Providers to reduce your Time to Market, you are bound to consume a fair number of APIs. When you do that, how quickly your team wraps their head around a brand new API is going to make all the difference between going LIVE in the next sprint vs one down the road. We use a simple tool that we created for one part of this purpose. Let us explore it.",
+          "Developers like to review API documentation slightly differently. They prefer to use scripts. Let us write one then (in Golang)."
+        ],
+        "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-api-documentation.jpg"
+      },
+      "price": 4.99,
+      "revenueCat": {
+        "playStoreProductID": "writing_scripts",
+        "appStoreProductID": "writing_scripts"
+      },
+      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/api-documentation.jpg",
+      "previewUrl": "https://player.vimeo.com/video/883460694",
+      "pageUrl": "https://getsnowpal.com/#35-writing-scripts-to-understand-rest-apis",
+      "lastModified": "2023-11-14",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/884518861?h=a6190655e5"
+        }
+      ],
+      "labels": [
+        "api",
+        "documentation",
+        "rest",
+        "golang"
+      ],
+      "tags": [
+        "api",
+        "documentation",
+        "rest",
+        "golang"
+      ]
+    },
+    {
+      "id": "FIN100",
+      "name": "Get Started with Trading Stocks",
+      "title": "Learn the basics of trading. If you are looking to become an investor and are wary of the associated risks, this course should help you build your confidence. (Length: 53 minutes)",
+      "description": "Starting to trade and invest at a young age will help you achieve your financial goals in the long run. Even if you are someone who has done a bit of trading but are unsure about some of the terminologies and risks associated with trading, you will likely find value in this first course. We will publish more Finance courses in future where we will be discussing a variety of related topics, and this first course is meant to serve as the foundation for the rest to follow. In this course, we will help you understand the basics of investing (how much to invest, when to invest, why to invest, how to invest and so on).",
+      "mobile": {
+        "descriptions": [
+          "Starting to trade and invest at a young age will help you achieve your financial goals in the long run. Even if you are someone who has done a bit of trading but are unsure about some of the terminologies and risks associated with trading, you will likely find value in this first course. We will publish more Finance courses in future where we will be discussing a variety of related topics, and this first course is meant to serve as the foundation for the rest to follow. In this course, we will help you understand the basics of investing (how much to invest, when to invest, why to invest, how to invest and so on).",
+          "Learn the basics of trading. If you are looking to become an investor and are wary of the associated risks, this course should help you build your confidence."
+        ],
+        "previewImage": "https://learn-ui-production.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-stock-trading.jpg"
+      },
+      "price": 9.99,
+      "revenueCat": {
+        "playStoreProductID": "getting_started_with_trading_stocks",
+        "appStoreProductID": "getting_started_with_trading_stocks"
+      },
+      "thumbnail": "https://learn-ui-production.s3.us-east-1.amazonaws.com/config/courses/thumbnails/stocks.jpg",
+      "previewUrl": "https://player.vimeo.com/video/1020014208",
+      "pageUrl": "https://getsnowpal.com/#36-st-101-get-started-with-trading-stocks",
+      "lastModified": "2024-12-04",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/1020014219?h=4e4c00fe5e"
+        }
+      ],
+      "labels": [
+        "stocks",
+        "investment",
+        "trading"
+      ],
+      "tags": [
+        "stocks",
+        "investment",
+        "trading"
+      ]
+    },
+    {
+      "id": "FIN105",
+      "name": "Stocks: Buy, Sell, Short, Cover",
+      "title": "We will do a few different types of trades in this course by taking a hands-on approach. If you are a newbie, you are likely to benefit from it immensely. That said, it should help investors with some experience as well. (Length: 54 minutes)",
+      "description": "In this course, we will take a look at some of the common types of trades (and maybe, a little beyond them as well). We will pick a platform to trade (and do some paper trades), select some securities to perform a few different types of trades on, and see how goes. If you have not done any trading, or have done a little but not a whole not, this course should help answer a few questions.",
+      "mobile": {
+        "descriptions": [
+          "In this course, we will take a look at some of the common types of trades (and maybe, a little beyond them as well). We will pick a platform to trade (and do some paper trades), select some securities to perform a few different types of trades on, and see how goes. If you have not done any trading, or have done a little but not a whole not, this course should help answer a few questions.",
+          "We will do a few different types of trades in this course by taking a hands-on approach. If you are a newbie, you are likely to benefit from it immensely. That said, it should help investors with some experience as well."
+        ],
+        "previewImage": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-buy-sell-short-cover.jpg"
+      },
+      "price": 9.99,
+      "revenueCat": {
+        "playStoreProductID": "buy_sell_short_cover_stocks",
+        "appStoreProductID": "buy_sell_short_cover_stocks"
+      },
+      "thumbnail": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/thumbnails/buy-sell-short-cover.jpg",
+      "previewUrl": "https://player.vimeo.com/video/1020014919",
+      "pageUrl": "https://getsnowpal.com/#37-st-102-stocks-buy-sell-short-cover",
+      "lastModified": "2024-12-17",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/1020017914?h=3ab7e67265"
+        }
+      ],
+      "labels": [
+        "stocks",
+        "investment",
+        "trading"
+      ],
+      "tags": [
+        "stocks",
+        "investment",
+        "trading"
+      ]
+    },
+    {
+      "id": "FIN110",
+      "name": "Stocks: Find the best companies to invest in",
+      "title": "Curious what a PE ratio is? Or what the difference between that and a PEG ratio is? Which one should you go with? (Length: 66 minutes)",
+      "description": "We will take a look at some of the ways to find the best companies to invest (both short term and long term). This, in itself, is a broad topic and not something we can cover in an hour but the idea is to equip you with necessary knowledge and awareness to get started. We’ll review PE Ratio, PEG Ratio, EBITDA, and more.",
+      "mobile": {
+        "descriptions": [
+          "We will take a look at some of the ways to find the best companies to invest (both short term and long term). This, in itself, is a broad topic and not something we can cover in an hour but the idea is to equip you with necessary knowledge and awareness to get started. We’ll review PE Ratio, PEG Ratio, EBITDA, and more.",
+          "Curious what a PE ratio is? Or what the difference between that and a PEG ratio is? Which one should you go with?"
+        ],
+        "previewImage": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-find-best-companies.jpg"
+      },
+      "price": 9.99,
+      "revenueCat": {
+        "playStoreProductID": "find_the_best_companies",
+        "appStoreProductID": "find_the_best_companies"
+      },
+      "thumbnail": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/thumbnails/find-best-companies.jpg",
+      "previewUrl": "https://player.vimeo.com/video/1020018254",
+      "pageUrl": "https://getsnowpal.com/#38-st-103-stocks-find-the-best-companies-to-invest-in",
+      "lastModified": "2024-12-17",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/1020018443?h=586424df36"
+        }
+      ],
+      "labels": [
+        "stocks",
+        "investment",
+        "trading"
+      ],
+      "tags": [
+        "stocks",
+        "investment",
+        "trading"
+      ]
+    },
+    {
+      "id": "FIN115",
+      "name": "Stocks: Portfolio Management",
+      "title": "Creating portfolios is not particularly hard but doing it efficiently can make all the difference between a profitable trade and a losing one as a day trader. (Length: 67 minutes)",
+      "description": "We discussed ratios in the last course and in this one, we will take a look at managing portfolios, understand the differences to investment as a Day Trader vs an Investor, and also, take a look at a few different charts. There are a number of public companies and selecting a handful to invest in can be rather challenging without the right set of tools so we will take a look at a few tools.",
+      "mobile": {
+        "descriptions": [
+          "We discussed ratios in the last course and in this one, we will take a look at managing portfolios, understand the differences to investment as a Day Trader vs an Investor, and also, take a look at a few different charts. There are a number of public companies and selecting a handful to invest in can be rather challenging without the right set of tools so we will take a look at a few tools.",
+          "Creating portfolios is not particularly hard but doing it efficiently can make all the difference between a profitable trade and a losing one as a day trader."
+        ],
+        "previewImage": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-portfolio-management.jpg"
+      },
+      "price": 9.99,
+      "revenueCat": {
+        "playStoreProductID": "portfolio_management",
+        "appStoreProductID": "portfolio_management"
+      },
+      "thumbnail": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/thumbnails/portfolio-management.jpg",
+      "previewUrl": "https://player.vimeo.com/video/1020017632",
+      "pageUrl": "https://getsnowpal.com/#39-st-104-stocks-portfolio-management",
+      "lastModified": "2024-12-17",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/1020017159?h=5ad4143e0d"
+        }
+      ],
+      "labels": [
+        "stocks",
+        "investment",
+        "trading"
+      ],
+      "tags": [
+        "stocks",
+        "investment",
+        "trading"
+      ]
+    },
+    {
+      "id": "TECH100",
+      "name": "Weaviate: Open Source Vector Database",
+      "title": "Weaviate is an open source AI-native database, and is one I stumbled into recently. (Length: 90 minutes)",
+      "description": "If you are building AI Applications, you should consider leveraging Vector Databases as they bring a lot of specific value to the table. In this course, we will learn a bit about Vector Databases taking Weaviate as an example, and do a tiny bit of hands on work.",
+      "mobile": {
+        "descriptions": [
+          "If you are building AI Applications, you should consider leveraging Vector Databases as they bring a lot of specific value to the table. In this course, we will learn a bit about Vector Databases taking Weaviate as an example, and do a tiny bit of hands on work.",
+          "Weaviate is an open source AI-native database, and is one I stumbled into recently."
+        ],
+        "previewImage": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-weaviate.jpg"
+      },
+      "price": 6.99,
+      "revenueCat": {
+        "playStoreProductID": "weaviate_database",
+        "appStoreProductID": "weaviate_database"
+      },
+      "thumbnail": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/thumbnails/weaviate.jpg",
+      "previewUrl": "https://player.vimeo.com/video/1020021091",
+      "pageUrl": "https://getsnowpal.com/#40-weaviate-open-source-vector-database",
+      "lastModified": "2024-12-17",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/1020022094?h=2208ce990c"
+        }
+      ],
+      "labels": [
+        "vector",
+        "database",
+        "ai"
+      ],
+      "tags": [
+        "vector",
+        "database",
+        "ai"
+      ]
+    },
+    {
+      "id": "BUS100",
+      "name": "Running a SaaS Business",
+      "title": "Do you ever dream of becoming an entrepreneur? Is that something you’ve wanted to do for a while but need a tiny bit of help getting started? (Length: 80 minutes)",
+      "description": "As someone who has always wanted to be an entrepreneur and as someone who decided to quit a stable, full time job to do this, I can share a few things with you that might help you in your own journey. Over the years, I have learned plenty and while there is a lot more to learn, I feel like I can share some of my experiences with you so you make fewer mistakes than I did.",
+      "mobile": {
+        "descriptions": [
+          "As someone who has always wanted to be an entrepreneur and as someone who decided to quit a stable, full time job to do this, I can share a few things with you that might help you in your own journey. Over the years, I have learned plenty and while there is a lot more to learn, I feel like I can share some of my experiences with you so you make fewer mistakes than I did.",
+          "Do you ever dream of becoming an entrepreneur? Is that something you’ve wanted to do for a while but need a tiny bit of help getting started?"
+        ],
+        "previewImage": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-running-business.jpg"
+      },
+      "price": 9.89,
+      "revenueCat": {
+        "playStoreProductID": "running_business",
+        "appStoreProductID": "running_business"
+      },
+      "thumbnail": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/thumbnails/running-business.jpg",
+      "previewUrl": "https://player.vimeo.com/video/1020013611",
+      "pageUrl": "https://getsnowpal.com/#41-running-a-saas-business",
+      "lastModified": "2024-12-17",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/1020019242?h=33426e444c"
+        }
+      ],
+      "labels": [
+        "startup",
+        "entrepreneurship",
+        "saas"
+      ],
+      "tags": [
+        "startup",
+        "entrepreneurship",
+        "saas"
+      ]
+    },
+    {
+      "id": "FIN120",
+      "name": "How to Research Stocks",
+      "title": "Not many people can time the stock market so most folks try to increase their “time in the market”. For that approach to be successful, picking the right set of securities is key. (Length: 60 minutes)",
+      "description": "You have watched our previous courses on this subject and feel ready to trade. Now, it is time to find the right security to trade! In this course, we will go over a few methodologies you could follow to help you pick the right stock to trade given both micro and macro economic conditions. There are numerous ways to skin this cat so we will look at a few approaches that have worked well for us.",
+      "mobile": {
+        "descriptions": [
+          "You have watched our previous courses on this subject and feel ready to trade. Now, it is time to find the right security to trade! In this course, we will go over a few methodologies you could follow to help you pick the right stock to trade given both micro and macro economic conditions. There are numerous ways to skin this cat so we will look at a few approaches that have worked well for us.",
+          "Not many people can time the stock market so most folks try to increase their “time in the market”. For that approach to be successful, picking the right set of securities is key."
+        ],
+        "previewImage": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-stock-research.jpg"
+      },
+      "price": 8.99,
+      "revenueCat": {
+        "playStoreProductID": "stock_research",
+        "appStoreProductID": "stock_research"
+      },
+      "thumbnail": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/thumbnails/stock-research.jpg",
+      "previewUrl": "https://player.vimeo.com/video/1020012253",
+      "pageUrl": "https://getsnowpal.com/#42-st-105-how-to-research-stocks",
+      "lastModified": "2024-12-17",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/1020011867?h=63c50eb939"
+        }
+      ],
+      "labels": [
+        "trading",
+        "stocks",
+        "investment"
+      ],
+      "tags": [
+        "trading",
+        "stocks",
+        "investment"
+      ]
+    },
+    {
+      "id": "ENT100",
+      "name": "How to play Texas Hold 'em Poker",
+      "title": "Texas Hold em can be a lot of fun when played for recreational purposes. Let us take a quick look at some of the basics of playing this game. (Length: 40 minutes)",
+      "description": "Texas Hold 'em is a `game that has continued to grow in popularity, and as someone, who plays it occasionally for recreational purposes, I figured it might be worthwhile to create a quick course on it (if not for anything else but simply for fun!). If you have never played poker, or have played it occasionally, this course may help you become a slightly better recreational player.",
+      "mobile": {
+        "descriptions": [
+          "Texas Hold 'em is a `game that has continued to grow in popularity, and as someone, who plays it occasionally for recreational purposes, I figured it might be worthwhile to create a quick course on it (if not for anything else but simply for fun!). If you have never played poker, or have played it occasionally, this course may help you become a slightly better recreational player.",
+          "Texas Hold 'em can be a lot of fun when played for recreational purposes. Let us take a quick look at some of the basics of playing this game."
+        ],
+        "previewImage": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-poker.jpg"
+      },
+      "price": 9.99,
+      "revenueCat": {
+        "playStoreProductID": "how_to_play_poker",
+        "appStoreProductID": "how_to_play_poker"
+      },
+      "thumbnail": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/thumbnails/poker.jpg",
+      "previewUrl": "https://player.vimeo.com/video/1020007534",
+      "pageUrl": "https://getsnowpal.com/#43-how-to-play-texas-hold-%E2%80%98em-poker",
+      "lastModified": "2024-12-17",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/1020006170?h=c5576e1444"
+        }
+      ],
+      "labels": [
+        "gambling",
+        "casino",
+        "poker"
+      ],
+      "tags": [
+        "gambling",
+        "casino",
+        "poker"
+      ]
+    },
+    {
+      "id": "BUS105",
+      "name": "Basics of Product Management",
+      "title": "Are you a Software Developer looking to become a Product Manager? Or, a new graduate who is interested in Product Management as a career? (Length: 50 minutes)",
+      "description": "This course should help you get a head start on some of the basics of managing software products at work. The example we will go over is a real one, and is based on one of our current apps (snowpal.com) which is a Project Management platform.",
+      "mobile": {
+        "descriptions": [
+          "This course should help you get a head start on some of the basics of managing software products at work. The example we will go over is a real one, and is based on one of our current apps (snowpal.com) which is a Project Management platform.",
+          "Are you a Software Developer looking to become a Product Manager? Or, a new graduate who is interested in Product Management as a career?"
+        ],
+        "previewImage": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-product-management.jpg"
+      },
+      "price": 7.99,
+      "revenueCat": {
+        "playStoreProductID": "basics_of_product_management",
+        "appStoreProductID": "basics_of_product_management"
+      },
+      "thumbnail": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/thumbnails/product-management.jpg",
+      "previewUrl": "https://player.vimeo.com/video/1020002888",
+      "pageUrl": "https://getsnowpal.com/#44-basics-of-product-management",
+      "lastModified": "2024-12-17",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/1020007253?h=89f61abf8c"
+        }
+      ],
+      "labels": [
+        "product",
+        "management",
+        "career"
+      ],
+      "tags": [
+        "product",
+        "management",
+        "career"
+      ]
+    },
+    {
+      "id": "FIN125",
+      "name": "Day Trading Stocks: Part 1",
+      "title": "Day Trading is not for everyone. But if you are the kind of person who might enjoy it, there are a few things you would likely be better off knowing. (Length: 65 minutes)",
+      "description": "In this course, we will explore a few different facets of Day Trading, and see if we can potentially find some lucrative approaches. While the course will focus on US Equities, the underlying fundamentals should be applicable no matter where you live, and trade.",
+      "mobile": {
+        "descriptions": [
+          "In this course, we will explore a few different facets of Day Trading, and see if we can potentially find some lucrative approaches. While the course will focus on US Equities, the underlying fundamentals should be applicable no matter where you live, and trade.",
+          "Day Trading is not for everyone. But if you are the kind of person who might enjoy it, there are a few things you would likely be better off knowing."
+        ],
+        "previewImage": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-day-trading-1.jpg"
+      },
+      "price": 9.49,
+      "revenueCat": {
+        "playStoreProductID": "day_trading_basics",
+        "appStoreProductID": "day_trading_basics"
+      },
+      "thumbnail": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/thumbnails/day-trading-1.jpg",
+      "previewUrl": "https://player.vimeo.com/video/1020792323",
+      "pageUrl": "https://getsnowpal.com/#45-st-106-day-trading-stocks-part-1",
+      "lastModified": "2024-12-17",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/1020800349?h=9fad73eac0"
+        }
+      ],
+      "labels": [
+        "trading",
+        "stocks",
+        "investment"
+      ],
+      "tags": [
+        "trading",
+        "stocks",
+        "investment"
+      ]
+    },
+    {
+      "id": "FIN130",
+      "name": "Day Trading Stocks: Part 2",
+      "title": "In the last course, we discussed some of the fundamentals of day trading. We will pick up from where we left off, and continue to delve a little deeper into it. (Length: 58 minutes)",
+      "description": "As a follow up to the previous course, we will look at some of the steps involved in picking securities to trade during the course of a given day. How should we go about doing it, what should we be looking at, and more.",
+      "mobile": {
+        "descriptions": [
+          "As a follow up to the previous course, we will look at some of the steps involved in picking securities to trade during the course of a given day. How should we go about doing it, what should we be looking at, and more.",
+          "In the last course, we discussed some of the fundamentals of day trading. We will pick up from where we left off, and continue to delve a little deeper into it."
+        ],
+        "previewImage": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-day-trading-2.jpg"
+      },
+      "price": 8.49,
+      "revenueCat": {
+        "playStoreProductID": "day_trading_process",
+        "appStoreProductID": "day_trading_process"
+      },
+      "thumbnail": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/thumbnails/day-trading-2.jpg",
+      "previewUrl": "https://player.vimeo.com/video/1020819849",
+      "pageUrl": "https://getsnowpal.com/#46-st-107-day-trading-stocks-part-2",
+      "lastModified": "2024-12-17",
+      "chapters": [
+        {
+          "title": "Chapter",
+          "description": "",
+          "url": "https://player.vimeo.com/video/1020819859?h=76f82b5d6c"
+        }
+      ],
+      "labels": [
+        "trading",
+        "stocks",
+        "investment"
+      ],
+      "tags": [
+        "trading",
+        "stocks",
+        "investment"
+      ]
+    },
+    {
+      "id": "CUS100",
+      "name": "Book an hour or day with Krish (Founder, CTO, & Architect)",
+      "title": "What can I help you with? What (software) questions do you have that are keeping you awake?",
+      "description": "Do you feel like you hit a wall? Don't you fret. In the world of Software Development where things change frequently & rapidly, it is completely normal to feel that way. Perhaps, you are architecting a complex system and you are unsure about how security should work? Or, you want to be doubly sure that your choice of database is appropriate for your requirements. Maybe you are starting development work on a greenfield project and have a plethora of questions about stack choices. Or, you want to learn a bit more about some of my podcasts. It doesn't matter what you need help with. If it's software related, there's a good chance I can help. Book an hour with me.",
+      "mobile": {
+        "descriptions": [
+          "Do you feel like you hit a wall? Don't you fret. In the world of Software Development where things change frequently & rapidly, it is completely normal to feel that way. Perhaps, you are architecting a complex system and you are unsure about how security should work? Or, you want to be doubly sure that your choice of database is appropriate for your requirements. Maybe you are starting development work on a greenfield project and have a plethora of questions about stack choices. Or, you want to learn a bit more about some of my podcasts. It doesn't matter what you need help with. If it's software related, there's a good chance I can help. Book an hour with me.",
+          "What can I help you with? What (software) questions do you have that are keeping you awake?"
+        ],
+        "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-book.jpg"
+      },
+      "price": 0,
+      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/meeting.jpg",
+      "previewUrl": "https://player.vimeo.com/video/852457862",
+      "pageUrl": "https://getsnowpal.com/#2-book-an-hour-with-krish-technologist",
+      "lastModified": "2023-07-01",
+      "chapters": [
+        {
+          "title": "",
+          "description": "",
+          "url": ""
+        }
+      ],
+      "labels": [
+        "custom",
+        "software",
+        "questions"
+      ],
+      "tags": [
+        "custom",
+        "software",
+        "development"
+      ]
+    },
+    {
+      "id": "CUS105",
+      "name": "Custom: Build Your Own Course",
+      "title": "If you know what you want to learn, let us know. If you need us to help you determine that, we are happy to do that as well. Either way, we'll do our best to make the weeklong course rewarding.",
+      "description": "We are all wonderfully unique individuals, and therefore, we certainly deserve to be treated as such. Too often, we see places of higher learning treat us all like a single entity, and serve premade, frozen burgers that leave no room for customization. We believe that one of the best ways to learn anything is to learn it your way. And sometimes, a tiny bit of help in providing that guidance to you, the way it works best for you, goes a long way in ensuring that you not only succeed, but also thoroughly enjoy what you do while you do it.",
+      "mobile": {
+        "descriptions": [
+          "We are all wonderfully unique individuals, and therefore, we certainly deserve to be treated as such. Too often, we see places of higher learning treat us all like a single entity, and serve premade, frozen burgers that leave no room for customization. We believe that one of the best ways to learn anything is to learn it your way. And sometimes, a tiny bit of help in providing that guidance to you, the way it works best for you, goes a long way in ensuring that you not only succeed, but also thoroughly enjoy what you do while you do it.",
+          "If you know what you want to learn, let us know. If you need us to help you determine that, we are happy to do that as well. Either way, we'll do our best to make the weeklong course rewarding."
+        ],
+        "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-custom.jpg"
+      },
+      "price": 0,
+      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/custom.jpg",
+      "previewUrl": "https://player.vimeo.com/video/852457957",
+      "pageUrl": "https://getsnowpal.com/#1-build-your-own-course",
+      "lastModified": "2023-07-01",
+      "chapters": [
+        {
+          "title": "",
+          "description": "",
+          "url": ""
+        }
+      ],
+      "labels": [
+        "custom",
+        "course",
+        "learning"
+      ],
+      "tags": [
+        "custom",
+        "course"
+      ]
+    },
+    {
+      "id": "CUS110",
+      "name": "Hire a US-based Engineering Duo",
+      "title": "Do you want to build a Native Mobile App? Are you looking to build some microservices? Need additional pairs of hands to expedite your Web Development? Looking to work with a cross functional team?",
+      "description": "We recognize that it is hard to find great talent at a fair cost, not to mention one that is absolutely credible and colocated in your own country. At least, it was. Not anymore! You are now able to hire Krish and Varun (and some of their team as well) to help you build just about any system. They both live in the US and run a product company that has several products in production (ranging from Web Apps, to Mobile Apps, to APIs, to an Education Platform). So, if you place a high amount of value in credibility, skills and working solutions, and would like to build high quality software in quick time, your search should really end here.",
+      "mobile": {
+        "descriptions": [
+          "We recognize that it is hard to find great talent at a fair cost, not to mention one that is absolutely credible and colocated in your own country. At least, it was. Not anymore! You are now able to hire Krish and Varun (and some of their team as well) to help you build just about any system. They both live in the US and run a product company that has several products in production (ranging from Web Apps, to Mobile Apps, to APIs, to an Education Platform). So, if you place a high amount of value in credibility, skills and working solutions, and would like to build high quality software in quick time, your search should really end here.",
+          "Do you want to build a Native Mobile App? Are you looking to build some microservices? Need additional pairs of hands to expedite your Web Development? Looking to work with a cross functional team?"
+        ],
+        "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-hire-us.jpg"
+      },
+      "price": 0,
+      "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/hire-us.jpg",
+      "previewUrl": "https://player.vimeo.com/video/910226842",
+      "pageUrl": "https://getsnowpal.com/#2a-hire-a-us-based-engineering-duo",
+      "lastModified": "2024-02-05",
+      "chapters": [
+        {
+          "title": "",
+          "description": "",
+          "url": ""
+        }
+      ],
+      "labels": [
+        "managed",
+        "services"
+      ],
+      "tags": [
+        "managed",
+        "services"
+      ]
+    }
+  ]
+}
