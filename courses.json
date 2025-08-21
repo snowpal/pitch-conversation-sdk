@@ -12,14 +12,14 @@
         ],
         "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-gateway.jpg"
       },
-      "price": 4.99,
+      "price": 19.99,
       "revenueCat": {
         "playStoreProductID": "aws_api_gateway_intro",
         "appStoreProductID": "aws_api_gateway_intro"
       },
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/aws.jpg",
       "previewUrl": "https://player.vimeo.com/video/827116753",
-      "pageUrl": "https://getsnowpal.com/#5-aws-api-gateway-introduction",
+      "pageUrl": "https://products.snowpal.com/p/snowpal-education-aws-api-gateway",
       "lastModified": "2023-07-01",
       "chapters": [
         {
@@ -51,14 +51,14 @@
         ],
         "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-github.jpg"
       },
-      "price": 3.99,
+      "price": 9.99,
       "revenueCat": {
         "playStoreProductID": "manage_projects_on_github",
         "appStoreProductID": "manage_projects_on_github"
       },
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/github.jpg",
       "previewUrl": "https://player.vimeo.com/video/827116738",
-      "pageUrl": "https://getsnowpal.com/#3-github-project-management",
+      "pageUrl": "https://products.snowpal.com/p/course-how-to-manage-projects-on-github",
       "lastModified": "2023-07-01",
       "chapters": [
         {
@@ -90,14 +90,14 @@
         ],
         "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-canva.jpg"
       },
-      "price": 5.99,
+      "price": 14.99,
       "revenueCat": {
         "playStoreProductID": "build_website_on_canva",
         "appStoreProductID": "build_website_on_canva"
       },
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/canva.jpg",
       "previewUrl": "https://player.vimeo.com/video/827116767",
-      "pageUrl": "https://getsnowpal.com/#4-build-website-on-canva",
+      "pageUrl": "https://products.snowpal.com/p/course-how-to-build-a-website-on-canva-quickly",
       "lastModified": "2023-07-01",
       "chapters": [
         {
@@ -139,14 +139,14 @@
         ],
         "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-postman.jpg"
       },
-      "price": 4.99,
+      "price": 14.99,
       "revenueCat": {
         "playStoreProductID": "how_to_use_postman_client",
         "appStoreProductID": "how_to_use_postman_client"
       },
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/postman.jpg",
       "previewUrl": "https://player.vimeo.com/video/827116778",
-      "pageUrl": "https://getsnowpal.com/#6-how-to-use-postman-api-client",
+      "pageUrl": "https://products.snowpal.com/p/course-learn-how-to-use-postman-api-client",
       "lastModified": "2023-07-01",
       "chapters": [
         {
@@ -182,14 +182,14 @@
         ],
         "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-caching.jpg"
       },
-      "price": 5.49,
+      "price": 19.99,
       "revenueCat": {
         "playStoreProductID": "flutter_mobile_app_caching",
         "appStoreProductID": "flutter_mobile_app_caching"
       },
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/caching.jpg",
       "previewUrl": "https://player.vimeo.com/video/827116732",
-      "pageUrl": "https://getsnowpal.com/#7-flutter-app-caching",
+      "pageUrl": "https://products.snowpal.com/p/course-implement-caching-in-flutter-mobile-app",
       "lastModified": "2023-07-01",
       "chapters": [
         {
@@ -223,14 +223,14 @@
         ],
         "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-machine-learning.jpg"
       },
-      "price": 4.99,
+      "price": 18.99,
       "revenueCat": {
         "playStoreProductID": "aws_machine_learning",
         "appStoreProductID": "aws_machine_learning"
       },
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/machine-learning.jpg",
       "previewUrl": "https://player.vimeo.com/video/836782646",
-      "pageUrl": "https://getsnowpal.com/#8-aws-machine-learning-with-no-data-experience",
+      "pageUrl": "https://products.snowpal.com/p/course-aws-machine-learning-with-no-data-science",
       "lastModified": "2023-07-01",
       "chapters": [
         {
@@ -265,14 +265,14 @@
         ],
         "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-chart.jpg"
       },
-      "price": 4.99,
+      "price": 14.99,
       "revenueCat": {
         "playStoreProductID": "implement_charts",
         "appStoreProductID": "implement_charts"
       },
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/charts.jpg",
       "previewUrl": "https://player.vimeo.com/video/837011343",
-      "pageUrl": "https://getsnowpal.com/#9-implement-mind-map-chart-amcharts",
+      "pageUrl": "https://products.snowpal.com/p/course-learn-to-implement-mind-map-chart",
       "lastModified": "2023-07-01",
       "chapters": [
         {
@@ -304,14 +304,14 @@
         ],
         "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-microservices.jpg"
       },
-      "price": 5.99,
+      "price": 19.99,
       "revenueCat": {
         "playStoreProductID": "securing_microservices",
         "appStoreProductID": "securing_microservices"
       },
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/security.jpg",
       "previewUrl": "https://player.vimeo.com/video/838168971",
-      "pageUrl": "https://getsnowpal.com/#10-secure-microservices-in-api-gateway",
+      "pageUrl": "https://products.snowpal.com/p/course-how-to-secure-microservice-in-api-gateway",
       "lastModified": "2023-07-01",
       "chapters": [
         {
@@ -344,14 +344,14 @@
         ],
         "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-go.jpg"
       },
-      "price": 5.49,
+      "price": 18.99,
       "revenueCat": {
         "playStoreProductID": "implementing_web_services_in_go",
         "appStoreProductID": "implementing_web_services_in_go"
       },
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/go.jpg",
       "previewUrl": "https://player.vimeo.com/video/838168872",
-      "pageUrl": "https://getsnowpal.com/#11-implementing-web-services-in-golang",
+      "pageUrl": "https://products.snowpal.com/p/course-implementing-web-services-in-golang",
       "lastModified": "2023-07-01",
       "chapters": [
         {
@@ -385,14 +385,14 @@
         ],
         "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-ruby.jpg"
       },
-      "price": 4.99,
+      "price": 17.99,
       "revenueCat": {
         "playStoreProductID": "implementing_web_services_in_ruby",
         "appStoreProductID": "implementing_web_services_in_ruby"
       },
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/ruby.jpg",
       "previewUrl": "https://player.vimeo.com/video/838168792",
-      "pageUrl": "https://getsnowpal.com/#12-implement-web-services-in-ruby",
+      "pageUrl": "https://products.snowpal.com/p/course-implementing-web-services-in-ruby",
       "lastModified": "2023-07-01",
       "chapters": [
         {
@@ -425,14 +425,14 @@
         ],
         "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-firebase.jpg"
       },
-      "price": 2.99,
+      "price": 7.99,
       "revenueCat": {
         "playStoreProductID": "update_firebase_cloud_messaging",
         "appStoreProductID": "update_firebase_cloud_messaging"
       },
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/firebase.jpg",
       "previewUrl": "https://player.vimeo.com/video/838535641",
-      "pageUrl": "https://getsnowpal.com/#13-firebase-cloud-messaging-update",
+      "pageUrl": "https://products.snowpal.com/p/course-update-apps-to-use-latest-firebase-sdk",
       "lastModified": "2023-07-01",
       "chapters": [
         {
@@ -467,14 +467,14 @@
         ],
         "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-hierarchy.jpg"
       },
-      "price": 4.49,
+      "price": 14.99,
       "revenueCat": {
         "playStoreProductID": "flutter_app_class_hierarchy",
         "appStoreProductID": "flutter_app_class_hierarchy"
       },
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/hierarchy.jpg",
       "previewUrl": "https://player.vimeo.com/video/841019544",
-      "pageUrl": "https://getsnowpal.com/#14-flutter-app-class-hierarchy",
+      "pageUrl": "https://products.snowpal.com/p/course-class-hierarchy-in-a-flutter-mobile-app",
       "lastModified": "2023-07-01",
       "chapters": [
         {
@@ -507,14 +507,14 @@
         ],
         "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-vimeo.jpg"
       },
-      "price": 5.99,
+      "price": 14.99,
       "revenueCat": {
         "playStoreProductID": "add_edited_video_to_showcase",
         "appStoreProductID": "add_edited_video_to_showcase"
       },
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/vimeo.jpg",
       "previewUrl": "https://player.vimeo.com/video/841045981",
-      "pageUrl": "https://getsnowpal.com/#15-vimeo-showcase-publish-video-website",
+      "pageUrl": "https://products.snowpal.com/p/course-edit-video-on-canva-upload-to-vimeo",
       "lastModified": "2023-07-01",
       "chapters": [
         {
@@ -553,14 +553,14 @@
         ],
         "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-directory.jpg"
       },
-      "price": 4.49,
+      "price": 14.99,
       "revenueCat": {
         "playStoreProductID": "flutter_app_directory_structure",
         "appStoreProductID": "flutter_app_directory_structure"
       },
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/directory.jpg",
       "previewUrl": "https://player.vimeo.com/video/841003496",
-      "pageUrl": "https://getsnowpal.com/#16-flutter-app-directory-structure",
+      "pageUrl": "https://products.snowpal.com/p/course-design-flutter-app-directory-structure",
       "lastModified": "2023-07-01",
       "chapters": [
         {
@@ -598,14 +598,14 @@
         ],
         "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-architect.jpg"
       },
-      "price": 4.99,
+      "price": 15.99,
       "revenueCat": {
         "playStoreProductID": "architect_web_app",
         "appStoreProductID": "architect_web_app"
       },
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/architecture.jpg",
       "previewUrl": "https://player.vimeo.com/video/841743772",
-      "pageUrl": "https://getsnowpal.com/#17-architect-a-web-application",
+      "pageUrl": "https://products.snowpal.com/p/course-how-to-architect-a-web-application",
       "lastModified": "2023-07-01",
       "chapters": [
         {
@@ -639,14 +639,14 @@
         ],
         "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-kanban.jpg"
       },
-      "price": 5.49,
+      "price": 14.99,
       "revenueCat": {
         "playStoreProductID": "integrate_kanban_in_web_app",
         "appStoreProductID": "integrate_kanban_in_web_app"
       },
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/kanban.jpg",
       "previewUrl": "https://player.vimeo.com/video/842064037",
-      "pageUrl": "https://getsnowpal.com/#18-integrate-kanban-in-web-app",
+      "pageUrl": "https://products.snowpal.com/p/course-integrate-kanban-in-web-application",
       "lastModified": "2023-07-01",
       "chapters": [
         {
@@ -680,14 +680,14 @@
         ],
         "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-ui.jpg"
       },
-      "price": 4.99,
+      "price": 14.99,
       "revenueCat": {
         "playStoreProductID": "designing_new_feature_on_web_app",
         "appStoreProductID": "designing_new_feature_on_web_app"
       },
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/ui.jpg",
       "previewUrl": "https://player.vimeo.com/video/844067579",
-      "pageUrl": "https://getsnowpal.com/#19-designing-ui-ux-for-a-web-feature",
+      "pageUrl": "https://products.snowpal.com/p/course-design-ui-and-ux-for-new-feature-on-app",
       "lastModified": "2023-07-13",
       "chapters": [
         {
@@ -721,14 +721,14 @@
         ],
         "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-marketplace.jpg"
       },
-      "price": 4.99,
+      "price": 19.99,
       "revenueCat": {
         "playStoreProductID": "creating_products_on_aws_marketplace",
         "appStoreProductID": "creating_products_on_aws_marketplace"
       },
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/marketplace.jpg",
       "previewUrl": "https://player.vimeo.com/video/844067819",
-      "pageUrl": "https://getsnowpal.com/#20-creating-products-on-aws-marketplace",
+      "pageUrl": "https://products.snowpal.com/p/course-how-to-create-products-on-aws-marketplace",
       "lastModified": "2023-07-13",
       "chapters": [
         {
@@ -762,14 +762,14 @@
         ],
         "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-auth.jpg"
       },
-      "price": 4.99,
+      "price": 16.99,
       "revenueCat": {
         "playStoreProductID": "aws_authenticating_subscribers",
         "appStoreProductID": "aws_authenticating_subscribers"
       },
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/authentication.jpg",
       "previewUrl": "https://player.vimeo.com/video/844067674",
-      "pageUrl": "https://getsnowpal.com/#21-authenticating-subscribers-using-api-key-product-code",
+      "pageUrl": "https://products.snowpal.com/p/course-how-to-authenticate-subscribers-using-api",
       "lastModified": "2023-07-01",
       "chapters": [
         {
@@ -802,14 +802,14 @@
         ],
         "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-json.jpg"
       },
-      "price": 5.49,
+      "price": 15.99,
       "revenueCat": {
         "playStoreProductID": "json_data_modeling",
         "appStoreProductID": "json_data_modeling"
       },
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/json.jpg",
       "previewUrl": "https://player.vimeo.com/video/844407626",
-      "pageUrl": "https://getsnowpal.com/#22-json-data-modeling-a-simple-example",
+      "pageUrl": "https://products.snowpal.com/p/course-json-data-modeling-explained-with-example",
       "lastModified": "2023-07-01",
       "chapters": [
         {
@@ -841,14 +841,14 @@
         ],
         "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-sql.jpg"
       },
-      "price": 5.99,
+      "price": 19.99,
       "revenueCat": {
         "playStoreProductID": "sql_vs_nosql",
         "appStoreProductID": "sql_vs_nosql"
       },
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/database.jpg",
       "previewUrl": "https://player.vimeo.com/video/845059779",
-      "pageUrl": "https://getsnowpal.com/#23-sql-vs-nosql-which-way-to-go",
+      "pageUrl": "https://products.snowpal.com/p/course-compare-sql-vs-nosql-how-to-pick",
       "lastModified": "2023-07-01",
       "chapters": [
         {
@@ -882,14 +882,14 @@
         ],
         "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-tabs.jpg"
       },
-      "price": 4.49,
+      "price": 16.99,
       "revenueCat": {
         "playStoreProductID": "flutter_app_implement_tabs",
         "appStoreProductID": "flutter_app_implement_tabs"
       },
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/tabs.jpg",
       "previewUrl": "https://player.vimeo.com/video/845117047",
-      "pageUrl": "https://getsnowpal.com/#24-flutter-app-implement-tabs",
+      "pageUrl": "https://products.snowpal.com/p/course-how-to-implement-tabs-in-flutter-app",
       "lastModified": "2023-07-01",
       "chapters": [
         {
@@ -921,14 +921,14 @@
         ],
         "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-rabbitmq.jpg"
       },
-      "price": 4.99,
+      "price": 18.99,
       "revenueCat": {
         "playStoreProductID": "asynchronous_messaging_with_rabbitmq",
         "appStoreProductID": "asynchronous_messaging_with_rabbitmq"
       },
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/rabbitmq.jpg",
       "previewUrl": "https://player.vimeo.com/video/845374431",
-      "pageUrl": "https://getsnowpal.com/#25-asynchronous-messaging-with-rabbitmq",
+      "pageUrl": "https://products.snowpal.com/p/course-learn-to-implement-asynchronous-messaging",
       "lastModified": "2023-07-01",
       "chapters": [
         {
@@ -961,14 +961,14 @@
         ],
         "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-multitenant.jpg"
       },
-      "price": 6.49,
+      "price": 21.99,
       "revenueCat": {
         "playStoreProductID": "multi_tenant_architecture_options",
         "appStoreProductID": "multi_tenant_architecture_options"
       },
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/multitenancy.jpg",
       "previewUrl": "https://player.vimeo.com/video/845409183",
-      "pageUrl": "https://getsnowpal.com/#26-multi-tenant-architecture-options",
+      "pageUrl": "https://products.snowpal.com/p/course-learn-to-build-multi-tenant-architecture",
       "lastModified": "2023-07-01",
       "chapters": [
         {
@@ -999,14 +999,14 @@
         ],
         "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-serverless.jpg"
       },
-      "price": 5.99,
+      "price": 24.99,
       "revenueCat": {
         "playStoreProductID": "aws_sam_specification",
         "appStoreProductID": "aws_sam_specification"
       },
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/sam.jpg",
       "previewUrl": "https://player.vimeo.com/video/848863345",
-      "pageUrl": "https://getsnowpal.com/#27-serverless-applications-aws-sam-specification",
+      "pageUrl": "https://products.snowpal.com/p/snowpal-education-serverless-applications",
       "lastModified": "2023-07-26",
       "chapters": [
         {
@@ -1038,14 +1038,14 @@
         ],
         "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-dynamodb.jpg"
       },
-      "price": 5.99,
+      "price": 19.99,
       "revenueCat": {
         "playStoreProductID": "dynamodb_intro",
         "appStoreProductID": "dynamodb_intro"
       },
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/dynamodb.jpg",
       "previewUrl": "https://player.vimeo.com/video/852433946",
-      "pageUrl": "https://getsnowpal.com/#28-amazon-dynamodb-an-introduction",
+      "pageUrl": "https://products.snowpal.com/p/course-introduction-to-amazon-dynamodb-database",
       "lastModified": "2023-08-08",
       "chapters": [
         {
@@ -1079,14 +1079,14 @@
         ],
         "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-live.jpg"
       },
-      "price": 8.99,
+      "price": 17.99,
       "revenueCat": {
         "playStoreProductID": "implement_notifications_feature",
         "appStoreProductID": "implement_notifications_feature"
       },
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/notifications.jpg",
       "previewUrl": "https://player.vimeo.com/video/855459392",
-      "pageUrl": "https://getsnowpal.com/#29-live-coding-implement-notifications-feature",
+      "pageUrl": "https://products.snowpal.com/p/live-coding-implement-new-feature",
       "lastModified": "2023-08-16",
       "chapters": [
         {
@@ -1135,14 +1135,14 @@
         ],
         "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-social.jpg"
       },
-      "price": 6.99,
+      "price": 24.99,
       "revenueCat": {
         "playStoreProductID": "social_media_login",
         "appStoreProductID": "social_media_login"
       },
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/social-media.jpg",
       "previewUrl": "https://player.vimeo.com/video/871591096",
-      "pageUrl": "https://getsnowpal.com/#30-social-media-login-oauth-2-0",
+      "pageUrl": "https://products.snowpal.com/p/course-learn-implement-social-media-login-oauth",
       "lastModified": "2023-10-05",
       "chapters": [
         {
@@ -1183,14 +1183,14 @@
         ],
         "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-pricing.jpg"
       },
-      "price": 6.99,
+      "price": 24.99,
       "revenueCat": {
         "playStoreProductID": "revenuecat_pricing_integration",
         "appStoreProductID": "revenuecat_pricing_integration"
       },
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/pricing.jpg",
       "previewUrl": "https://player.vimeo.com/video/871619357",
-      "pageUrl": "https://getsnowpal.com/#31-revenuecat-pricing-integration",
+      "pageUrl": "https://products.snowpal.com/p/snowpal-education-revenuecat-pricing",
       "lastModified": "2023-10-05",
       "chapters": [
         {
@@ -1220,14 +1220,14 @@
         ],
         "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-dev-environment.jpg"
       },
-      "price": 4.99,
+      "price": 18.99,
       "revenueCat": {
         "playStoreProductID": "dependencies_in_dev_env",
         "appStoreProductID": "dependencies_in_dev_env"
       },
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/dev-environment.jpg",
       "previewUrl": "https://player.vimeo.com/video/871620232",
-      "pageUrl": "https://getsnowpal.com/#32-dependencies-in-development-environment",
+      "pageUrl": "https://products.snowpal.com/p/course-manage-dependencies-in-development",
       "lastModified": "2023-10-05",
       "chapters": [
         {
@@ -1259,14 +1259,14 @@
         ],
         "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-interface.jpg"
       },
-      "price": 5.49,
+      "price": 16.99,
       "revenueCat": {
         "playStoreProductID": "interfaces_in_go",
         "appStoreProductID": "interfaces_in_go"
       },
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/interface.jpg",
       "previewUrl": "https://player.vimeo.com/video/882682467",
-      "pageUrl": "https://getsnowpal.com/#33-interfaces-in-go-golang",
+      "pageUrl": "https://products.snowpal.com/p/course-learn-about-interfaces-in-golang",
       "lastModified": "2023-11-09",
       "chapters": [
         {
@@ -1298,14 +1298,14 @@
         ],
         "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-lambda.jpg"
       },
-      "price": 4.99,
+      "price": 18.99,
       "revenueCat": {
         "playStoreProductID": "develop_aws_lambda_apps_locally",
         "appStoreProductID": "develop_aws_lambda_apps_locally"
       },
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/lambda.jpg",
       "previewUrl": "https://player.vimeo.com/video/883454220",
-      "pageUrl": "https://getsnowpal.com/#34-develop-aws-lambda-applications-locally",
+      "pageUrl": "https://products.snowpal.com/p/course-develop-aws-lambda-applications-locally",
       "lastModified": "2023-11-14",
       "chapters": [
         {
@@ -1337,14 +1337,14 @@
         ],
         "previewImage": "https://learn-ui-production.s3.amazonaws.com/config/courses/mobile/thumbnails/m-api-documentation.jpg"
       },
-      "price": 4.99,
+      "price": 14.99,
       "revenueCat": {
         "playStoreProductID": "writing_scripts",
         "appStoreProductID": "writing_scripts"
       },
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/api-documentation.jpg",
       "previewUrl": "https://player.vimeo.com/video/883460694",
-      "pageUrl": "https://getsnowpal.com/#35-writing-scripts-to-understand-rest-apis",
+      "pageUrl": "https://products.snowpal.com/p/course-writing-scripts-to-understand-apis",
       "lastModified": "2023-11-14",
       "chapters": [
         {
@@ -1378,14 +1378,14 @@
         ],
         "previewImage": "https://learn-ui-production.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-stock-trading.jpg"
       },
-      "price": 9.99,
+      "price": 24.99,
       "revenueCat": {
         "playStoreProductID": "getting_started_with_trading_stocks",
         "appStoreProductID": "getting_started_with_trading_stocks"
       },
       "thumbnail": "https://learn-ui-production.s3.us-east-1.amazonaws.com/config/courses/thumbnails/stocks.jpg",
       "previewUrl": "https://player.vimeo.com/video/1020014208",
-      "pageUrl": "https://getsnowpal.com/#36-st-101-get-started-with-trading-stocks",
+      "pageUrl": "https://products.snowpal.com/p/get-started-with-stock-trading",
       "lastModified": "2024-12-04",
       "chapters": [
         {
@@ -1415,16 +1415,16 @@
           "In this course, we will take a look at some of the common types of trades (and maybe, a little beyond them as well). We will pick a platform to trade (and do some paper trades), select some securities to perform a few different types of trades on, and see how goes. If you have not done any trading, or have done a little but not a whole not, this course should help answer a few questions.",
           "We will do a few different types of trades in this course by taking a hands-on approach. If you are a newbie, you are likely to benefit from it immensely. That said, it should help investors with some experience as well."
         ],
-        "previewImage": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-buy-sell-short-cover.jpg"
+        "previewImage": "https://learn-ui-production.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-buy-sell-short-cover.jpg"
       },
-      "price": 9.99,
+      "price": 24.99,
       "revenueCat": {
         "playStoreProductID": "buy_sell_short_cover_stocks",
         "appStoreProductID": "buy_sell_short_cover_stocks"
       },
-      "thumbnail": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/thumbnails/buy-sell-short-cover.jpg",
+      "thumbnail": "https://learn-ui-production.s3.us-east-1.amazonaws.com/config/courses/thumbnails/buy-sell-short-cover.jpg",
       "previewUrl": "https://player.vimeo.com/video/1020014919",
-      "pageUrl": "https://getsnowpal.com/#37-st-102-stocks-buy-sell-short-cover",
+      "pageUrl": "https://products.snowpal.com/p/buy-sell-short-cover-stocks",
       "lastModified": "2024-12-17",
       "chapters": [
         {
@@ -1448,22 +1448,22 @@
       "id": "FIN110",
       "name": "Stocks: Find the best companies to invest in",
       "title": "Curious what a PE ratio is? Or what the difference between that and a PEG ratio is? Which one should you go with? (Length: 66 minutes)",
-      "description": "We will take a look at some of the ways to find the best companies to invest (both short term and long term). This, in itself, is a broad topic and not something we can cover in an hour but the idea is to equip you with necessary knowledge and awareness to get started. We’ll review PE Ratio, PEG Ratio, EBITDA, and more.",
+      "description": "We will take a look at some of the ways to find the best companies to invest (both short term and long term). This, in itself, is a broad topic and not something we can cover in an hour but the idea is to equip you with necessary knowledge and awareness to get started. We will review PE Ratio, PEG Ratio, EBITDA, and more.",
       "mobile": {
         "descriptions": [
-          "We will take a look at some of the ways to find the best companies to invest (both short term and long term). This, in itself, is a broad topic and not something we can cover in an hour but the idea is to equip you with necessary knowledge and awareness to get started. We’ll review PE Ratio, PEG Ratio, EBITDA, and more.",
+          "We will take a look at some of the ways to find the best companies to invest (both short term and long term). This, in itself, is a broad topic and not something we can cover in an hour but the idea is to equip you with necessary knowledge and awareness to get started. We will review PE Ratio, PEG Ratio, EBITDA, and more.",
           "Curious what a PE ratio is? Or what the difference between that and a PEG ratio is? Which one should you go with?"
         ],
-        "previewImage": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-find-best-companies.jpg"
+        "previewImage": "https://learn-ui-production.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-find-best-companies.jpg"
       },
-      "price": 9.99,
+      "price": 24.99,
       "revenueCat": {
         "playStoreProductID": "find_the_best_companies",
         "appStoreProductID": "find_the_best_companies"
       },
-      "thumbnail": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/thumbnails/find-best-companies.jpg",
+      "thumbnail": "https://learn-ui-production.s3.us-east-1.amazonaws.com/config/courses/thumbnails/find-best-companies.jpg",
       "previewUrl": "https://player.vimeo.com/video/1020018254",
-      "pageUrl": "https://getsnowpal.com/#38-st-103-stocks-find-the-best-companies-to-invest-in",
+      "pageUrl": "https://products.snowpal.com/p/find-the-best-companies",
       "lastModified": "2024-12-17",
       "chapters": [
         {
@@ -1493,16 +1493,16 @@
           "We discussed ratios in the last course and in this one, we will take a look at managing portfolios, understand the differences to investment as a Day Trader vs an Investor, and also, take a look at a few different charts. There are a number of public companies and selecting a handful to invest in can be rather challenging without the right set of tools so we will take a look at a few tools.",
           "Creating portfolios is not particularly hard but doing it efficiently can make all the difference between a profitable trade and a losing one as a day trader."
         ],
-        "previewImage": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-portfolio-management.jpg"
+        "previewImage": "https://learn-ui-production.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-portfolio-management.jpg"
       },
-      "price": 9.99,
+      "price": 24.99,
       "revenueCat": {
         "playStoreProductID": "portfolio_management",
         "appStoreProductID": "portfolio_management"
       },
-      "thumbnail": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/thumbnails/portfolio-management.jpg",
+      "thumbnail": "https://learn-ui-production.s3.us-east-1.amazonaws.com/config/courses/thumbnails/portfolio-management.jpg",
       "previewUrl": "https://player.vimeo.com/video/1020017632",
-      "pageUrl": "https://getsnowpal.com/#39-st-104-stocks-portfolio-management",
+      "pageUrl": "https://products.snowpal.com/p/stock-portfolio-management",
       "lastModified": "2024-12-17",
       "chapters": [
         {
@@ -1532,16 +1532,16 @@
           "If you are building AI Applications, you should consider leveraging Vector Databases as they bring a lot of specific value to the table. In this course, we will learn a bit about Vector Databases taking Weaviate as an example, and do a tiny bit of hands on work.",
           "Weaviate is an open source AI-native database, and is one I stumbled into recently."
         ],
-        "previewImage": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-weaviate.jpg"
+        "previewImage": "https://learn-ui-production.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-weaviate.jpg"
       },
-      "price": 6.99,
+      "price": 21.99,
       "revenueCat": {
         "playStoreProductID": "weaviate_database",
         "appStoreProductID": "weaviate_database"
       },
-      "thumbnail": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/thumbnails/weaviate.jpg",
+      "thumbnail": "https://learn-ui-production.s3.us-east-1.amazonaws.com/config/courses/thumbnails/weaviate.jpg",
       "previewUrl": "https://player.vimeo.com/video/1020021091",
-      "pageUrl": "https://getsnowpal.com/#40-weaviate-open-source-vector-database",
+      "pageUrl": "https://products.snowpal.com/p/weaviate-open-source-vector-database",
       "lastModified": "2024-12-17",
       "chapters": [
         {
@@ -1571,16 +1571,16 @@
           "As someone who has always wanted to be an entrepreneur and as someone who decided to quit a stable, full time job to do this, I can share a few things with you that might help you in your own journey. Over the years, I have learned plenty and while there is a lot more to learn, I feel like I can share some of my experiences with you so you make fewer mistakes than I did.",
           "Do you ever dream of becoming an entrepreneur? Is that something you’ve wanted to do for a while but need a tiny bit of help getting started?"
         ],
-        "previewImage": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-running-business.jpg"
+        "previewImage": "https://learn-ui-production.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-running-business.jpg"
       },
-      "price": 9.89,
+      "price": 24.99,
       "revenueCat": {
         "playStoreProductID": "running_business",
         "appStoreProductID": "running_business"
       },
-      "thumbnail": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/thumbnails/running-business.jpg",
+      "thumbnail": "https://learn-ui-production.s3.us-east-1.amazonaws.com/config/courses/thumbnails/running-business.jpg",
       "previewUrl": "https://player.vimeo.com/video/1020013611",
-      "pageUrl": "https://getsnowpal.com/#41-running-a-saas-business",
+      "pageUrl": "https://products.snowpal.com/p/running-a-saas-business",
       "lastModified": "2024-12-17",
       "chapters": [
         {
@@ -1603,23 +1603,23 @@
     {
       "id": "FIN120",
       "name": "How to Research Stocks",
-      "title": "Not many people can time the stock market so most folks try to increase their “time in the market”. For that approach to be successful, picking the right set of securities is key. (Length: 60 minutes)",
+      "title": "Not many people can time the stock market so most folks try to increase their time in the market. For that approach to be successful, picking the right set of securities is key. (Length: 60 minutes)",
       "description": "You have watched our previous courses on this subject and feel ready to trade. Now, it is time to find the right security to trade! In this course, we will go over a few methodologies you could follow to help you pick the right stock to trade given both micro and macro economic conditions. There are numerous ways to skin this cat so we will look at a few approaches that have worked well for us.",
       "mobile": {
         "descriptions": [
           "You have watched our previous courses on this subject and feel ready to trade. Now, it is time to find the right security to trade! In this course, we will go over a few methodologies you could follow to help you pick the right stock to trade given both micro and macro economic conditions. There are numerous ways to skin this cat so we will look at a few approaches that have worked well for us.",
-          "Not many people can time the stock market so most folks try to increase their “time in the market”. For that approach to be successful, picking the right set of securities is key."
+          "Not many people can time the stock market so most folks try to increase their time in the market. For that approach to be successful, picking the right set of securities is key."
         ],
-        "previewImage": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-stock-research.jpg"
+        "previewImage": "https://learn-ui-production.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-stock-research.jpg"
       },
-      "price": 8.99,
+      "price": 24.99,
       "revenueCat": {
         "playStoreProductID": "stock_research",
         "appStoreProductID": "stock_research"
       },
-      "thumbnail": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/thumbnails/stock-research.jpg",
+      "thumbnail": "https://learn-ui-production.s3.us-east-1.amazonaws.com/config/courses/thumbnails/stock-research.jpg",
       "previewUrl": "https://player.vimeo.com/video/1020012253",
-      "pageUrl": "https://getsnowpal.com/#42-st-105-how-to-research-stocks",
+      "pageUrl": "https://products.snowpal.com/p/how-to-research-stocks",
       "lastModified": "2024-12-17",
       "chapters": [
         {
@@ -1640,45 +1640,6 @@
       ]
     },
     {
-      "id": "ENT100",
-      "name": "How to play Texas Hold em Poker",
-      "title": "Texas Hold em can be a lot of fun when played for recreational purposes. Let us take a quick look at some of the basics of playing this game. (Length: 40 minutes)",
-      "description": "Texas Hold em is a game that has continued to grow in popularity, and as someone, who plays it occasionally for recreational purposes, I figured it might be worthwhile to create a quick course on it (if not for anything else but simply for fun!). If you have never played poker, or have played it occasionally, this course may help you become a slightly better recreational player.",
-      "mobile": {
-        "descriptions": [
-          "Texas Hold em is a game that has continued to grow in popularity, and as someone, who plays it occasionally for recreational purposes, I figured it might be worthwhile to create a quick course on it (if not for anything else but simply for fun!). If you have never played poker, or have played it occasionally, this course may help you become a slightly better recreational player.",
-          "Texas Hold em can be a lot of fun when played for recreational purposes. Let us take a quick look at some of the basics of playing this game."
-        ],
-        "previewImage": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-poker.jpg"
-      },
-      "price": 9.99,
-      "revenueCat": {
-        "playStoreProductID": "how_to_play_poker",
-        "appStoreProductID": "how_to_play_poker"
-      },
-      "thumbnail": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/thumbnails/poker.jpg",
-      "previewUrl": "https://player.vimeo.com/video/1020007534",
-      "pageUrl": "https://getsnowpal.com/#43-how-to-play-texas-hold-%E2%80%98em-poker",
-      "lastModified": "2024-12-17",
-      "chapters": [
-        {
-          "title": "Chapter",
-          "description": "",
-          "url": "https://player.vimeo.com/video/1020006170?h=c5576e1444"
-        }
-      ],
-      "labels": [
-        "gambling",
-        "casino",
-        "poker"
-      ],
-      "tags": [
-        "gambling",
-        "casino",
-        "poker"
-      ]
-    },
-    {
       "id": "BUS105",
       "name": "Basics of Product Management",
       "title": "Are you a Software Developer looking to become a Product Manager? Or, a new graduate who is interested in Product Management as a career? (Length: 50 minutes)",
@@ -1688,16 +1649,16 @@
           "This course should help you get a head start on some of the basics of managing software products at work. The example we will go over is a real one, and is based on one of our current apps (snowpal.com) which is a Project Management platform.",
           "Are you a Software Developer looking to become a Product Manager? Or, a new graduate who is interested in Product Management as a career?"
         ],
-        "previewImage": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-product-management.jpg"
+        "previewImage": "https://learn-ui-production.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-product-management.jpg"
       },
-      "price": 7.99,
+      "price": 22.99,
       "revenueCat": {
         "playStoreProductID": "basics_of_product_management",
         "appStoreProductID": "basics_of_product_management"
       },
-      "thumbnail": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/thumbnails/product-management.jpg",
+      "thumbnail": "https://learn-ui-production.s3.us-east-1.amazonaws.com/config/courses/thumbnails/product-management.jpg",
       "previewUrl": "https://player.vimeo.com/video/1020002888",
-      "pageUrl": "https://getsnowpal.com/#44-basics-of-product-management",
+      "pageUrl": "https://products.snowpal.com/p/product-management",
       "lastModified": "2024-12-17",
       "chapters": [
         {
@@ -1727,16 +1688,16 @@
           "In this course, we will explore a few different facets of Day Trading, and see if we can potentially find some lucrative approaches. While the course will focus on US Equities, the underlying fundamentals should be applicable no matter where you live, and trade.",
           "Day Trading is not for everyone. But if you are the kind of person who might enjoy it, there are a few things you would likely be better off knowing."
         ],
-        "previewImage": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-day-trading-1.jpg"
+        "previewImage": "https://learn-ui-production.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-day-trading-1.jpg"
       },
-      "price": 9.49,
+      "price": 24.99,
       "revenueCat": {
         "playStoreProductID": "day_trading_basics",
         "appStoreProductID": "day_trading_basics"
       },
-      "thumbnail": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/thumbnails/day-trading-1.jpg",
+      "thumbnail": "https://learn-ui-production.s3.us-east-1.amazonaws.com/config/courses/thumbnails/day-trading-1.jpg",
       "previewUrl": "https://player.vimeo.com/video/1020792323",
-      "pageUrl": "https://getsnowpal.com/#45-st-106-day-trading-stocks-part-1",
+      "pageUrl": "https://products.snowpal.com/p/day-trading-stocks-part-1",
       "lastModified": "2024-12-17",
       "chapters": [
         {
@@ -1766,16 +1727,16 @@
           "As a follow up to the previous course, we will look at some of the steps involved in picking securities to trade during the course of a given day. How should we go about doing it, what should we be looking at, and more.",
           "In the last course, we discussed some of the fundamentals of day trading. We will pick up from where we left off, and continue to delve a little deeper into it."
         ],
-        "previewImage": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-day-trading-2.jpg"
+        "previewImage": "https://learn-ui-production.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-day-trading-2.jpg"
       },
-      "price": 8.49,
+      "price": 24.99,
       "revenueCat": {
         "playStoreProductID": "day_trading_process",
         "appStoreProductID": "day_trading_process"
       },
-      "thumbnail": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/thumbnails/day-trading-2.jpg",
+      "thumbnail": "https://learn-ui-production.s3.us-east-1.amazonaws.com/config/courses/thumbnails/day-trading-2.jpg",
       "previewUrl": "https://player.vimeo.com/video/1020819849",
-      "pageUrl": "https://getsnowpal.com/#46-st-107-day-trading-stocks-part-2",
+      "pageUrl": "https://products.snowpal.com/p/day-trading-stocks-part-2",
       "lastModified": "2024-12-17",
       "chapters": [
         {
@@ -1796,6 +1757,55 @@
       ]
     },
     {
+      "id": "BUS110",
+      "name": "36 Ways AI Is Rewriting Work as We Know It",
+      "title": "The End of Work (as you knew it). You are not ready for what AI is about to do to your job. This course can serve as a field guide to the AI Era. (Length: 110 minutes)",
+      "description": "AI is reshaping every layer of work—from roles and team composition to workflows, education, and organizational structures. It massively boosts efficiency but also forces companies and individuals to adapt quickly.",
+      "mobile": {
+        "descriptions": [
+          "What if everything you believed about work, teams, and learning was about to be shattered almost overnight? AI is not just boosting productivity, it is rewriting the rules. Solo developers are building billion-dollar companies. Non-coders are creating software in hours. Teams are shrinking, roles are dissolving, and busywork is being eliminated. The very definition of what counts as valuable skills is being rewritten in real time. Departments are blending into one another. Change is accelerating at breakneck speed. And as machines learn to reason, the frontier of work itself is shifting. The truth is that we are not moving fast enough. This list is an unfiltered look at the sweeping, unsettling, and thrilling revolution already underway.",
+          "AI is reshaping every layer of work, from roles and team composition to workflows, education, and organizational structures. It massively boosts efficiency but also forces companies and individuals to adapt quickly. Survival and success depend on embracing AI tools, continuously retraining, and focusing on uniquely human strengths like reasoning, creativity, and judgment."
+        ],
+        "previewImage": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-ai-impact.jpg"
+      },
+      "price": 18.99,
+      "revenueCat": {
+        "playStoreProductID": "ai_impact",
+        "appStoreProductID": "ai_impact"
+      },
+      "thumbnail": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/thumbnails/ai-impact.jpg",
+      "previewUrl": "https://player.vimeo.com/video/1020819849",
+      "pageUrl": "https://products.snowpal.com/p/36-ways-ai-is-rewriting-work",
+      "lastModified": "2025-08-21",
+      "chapters": [
+        {
+          "title": "Chapter 1",
+          "description": "The Role of AI in Employment Changes",
+          "url": "https://player.vimeo.com/video/1102666821?h=eb10da75e4"
+        },
+        {
+          "title": "Chapter 2",
+          "description": "The Future of Outsourcing in an AI World",
+          "url": "https://player.vimeo.com/video/1102666919?h=83e1cac783"
+        },
+        {
+          "title": "Chapter 3",
+          "description": "Transforming the Software Development Lifecycle",
+          "url": "https://player.vimeo.com/video/1102667043?h=46af090712"
+        }
+      ],
+      "labels": [
+        "ai",
+        "software development",
+        "career"
+      ],
+      "tags": [
+        "ai",
+        "software development",
+        "career"
+      ]
+    },
+    {
       "id": "CUS100",
       "name": "Book an hour or day with Krish (Founder, CTO, & Architect)",
       "title": "What can I help you with? What (software) questions do you have that are keeping you awake?",
@@ -1810,7 +1820,7 @@
       "price": 0,
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/meeting.jpg",
       "previewUrl": "https://player.vimeo.com/video/852457862",
-      "pageUrl": "https://getsnowpal.com/#2-book-an-hour-with-krish-technologist",
+      "pageUrl": "https://products.snowpal.com/p/book-an-hour-or-day-with-cto-krish-palaniappan",
       "lastModified": "2023-07-01",
       "chapters": [
         {
@@ -1845,7 +1855,7 @@
       "price": 0,
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/custom.jpg",
       "previewUrl": "https://player.vimeo.com/video/852457957",
-      "pageUrl": "https://getsnowpal.com/#1-build-your-own-course",
+      "pageUrl": "https://products.snowpal.com/p/offer-custom-courses-to-suit-your-needs",
       "lastModified": "2023-07-01",
       "chapters": [
         {
@@ -1879,7 +1889,7 @@
       "price": 0,
       "thumbnail": "https://learn-ui-production.s3.amazonaws.com/config/courses/thumbnails/hire-us.jpg",
       "previewUrl": "https://player.vimeo.com/video/910226842",
-      "pageUrl": "https://getsnowpal.com/#2a-hire-a-us-based-engineering-duo",
+      "pageUrl": "https://products.snowpal.com/p/hire-us-based-software-engineers",
       "lastModified": "2024-02-05",
       "chapters": [
         {
