@@ -1923,6 +1923,55 @@
       ]
     },
     {
+      "id": "INV100",
+      "name": "Navigating the Home Buying Process",
+      "title": "Learn how to navigate the home-buying process with confidence (Length: 160 minutes)",
+      "description": "This course covers budgeting, renting vs. buying, property types, working with real estate agents, commissions, and negotiation.",
+      "mobile": {
+        "descriptions": [
+          "Buying a home is one of the biggest financial decisions most people will make, and making the right choice requires looking well beyond the listing price. This three-part course provides a practical exploration of the entire home-buying journey, beginning with the fundamental decision of whether renting or buying makes sense for your circumstances.",
+          "The course walks through setting a realistic budget, defining your property requirements, comparing different types of homes, and using online tools to research properties and markets. It also examines the role of real estate agents, how commissions work, what to consider when choosing an agent, and how research and negotiation can help buyers navigate the search and offer process more effectively."
+        ],
+        "previewImage": "https://learn-ui-production.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-home-buying.jpg"
+      },
+      "price": 49.99,
+      "revenueCat": {
+        "playStoreProductID": "navigating_home_buying_process",
+        "appStoreProductID": "navigating_home_buying_process"
+      },
+      "thumbnail": "https://learn-ui-production.s3.us-east-1.amazonaws.com/config/courses/thumbnails/home-buying.jpg",
+      "previewUrl": "https://player.vimeo.com/video/1227108015",
+      "pageUrl": "https://products.snowpal.com/p/navigating-the-home-buying",
+      "lastModified": "2026-09-16",
+      "chapters": [
+        {
+          "title": "Chapter 1",
+          "description": "Navigating the Home Buying Process",
+          "url": "https://player.vimeo.com/video/1227108010?h=cee58de543"
+        },
+        {
+          "title": "Chapter 2",
+          "description": "Navigating Home Buying: Down Payments and Mortgages",
+          "url": "https://player.vimeo.com/video/1227108013?h=c4de10aead"
+        },
+        {
+          "title": "Chapter 3",
+          "description": "Finding and Buying the Right Home",
+          "url": "https://player.vimeo.com/video/1227108014?h=4d7259eb1d"
+        }
+      ],
+      "labels": [
+        "home buying",
+        "investments",
+        "process"
+      ],
+      "tags": [
+        "home buying",
+        "investments",
+        "process"
+      ]
+    },
+    {
       "id": "CUS100",
       "name": "Book an hour or day with Krish (Founder, CTO, & Architect)",
       "title": "What can I help you with? What (software) questions do you have that are keeping you awake?",
