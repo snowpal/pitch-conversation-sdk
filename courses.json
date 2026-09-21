@@ -1532,7 +1532,7 @@
           "This course introduces Weaviate, an open source vector database built for unstructured data like text, images, and audio. By storing embeddings in high dimensional space, Weaviate powers semantic search, recommendations, and clustering capabilities beyond relational or NoSQL systems. You will start with embedding fundamentals and vector search, anchored by practical examples. Then you will set up a cloud cluster, configure authentication, and generate API keys. Using Go and Python clients, you will connect to Weaviate, validate the environment, and troubleshoot common issues like dependency mismatches or misconfigured endpoints.",
           "Next, the course covers data modeling and ingestion. You will define schemas, choose vectorizers like OpenAI, and batch-ingest JSON datasets, verifying inserts via console and code. With data loaded, you will use GraphQL for semantic search, compare vectorizers such as OpenAI and Cohere, and weigh when to bring your own embeddings. Lessons highlight trade-offs in performance, accuracy, and cost, plus scaling strategies for collections and infrastructure. By the end, you will have set up Weaviate, ingested data, run queries, and gained a clear model for applying vector search in production use cases."
         ],
-        "previewImage": "https://learn-ui-production.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-weaviate2.jpg"
+        "previewImage": "https://learn-ui-development.s3.us-east-1.amazonaws.com/config/courses/mobile/thumbnails/m-weaviate2.jpg"
       },
       "price": 21.99,
       "revenueCat": {
